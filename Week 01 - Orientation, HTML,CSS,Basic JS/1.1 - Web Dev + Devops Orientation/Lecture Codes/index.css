@@ -1,0 +1,11 @@
+body {
+    background-color: #0e0e0e;
+    color: white;
+    width: 80%;
+}
+
+.topLink {
+    color: gray;
+    font-weight: 500;
+    cursor: pointer;
+}
