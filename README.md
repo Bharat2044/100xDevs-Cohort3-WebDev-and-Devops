@@ -10,8 +10,6 @@ Write the following commands on your terminal to clone this repository, so that 
 git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ```
 
-<br />
-
 ## 👨‍💻 **Contents** 👀
 
 **This repository contains a `Collection of Codes, Assignments, Assignments Solutions & Notes`, which help you.**
@@ -31,6 +29,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ## 📚 [Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
 - 💻 [**1.1 - Web Dev + Devops Orientation**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/)
+
   - [👨‍💻 Lecture Codes](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Lecture%20Codes/)
   - [📖 Notes / Slides](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Notes.md)
   - [📝 Assignment](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Assignment.md)
@@ -38,14 +37,11 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
     - [VS Code Landing Page Clone Live Link 🚀](https://vscode-clone-bharat.vercel.app/)
 
 - 💻 [**1.2 - Basics of JavaScript**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/)
-    - [👨‍💻 Lecture Codes](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Lecture%20Codes/)
-    - [📖 Notes / Slides](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Notes.md)
-    - [📝 Assignment](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Assignment.md)
-    - [🖥️ Assignment Solution](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
-        - [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
-
-
-
+  - [👨‍💻 Lecture Codes](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Lecture%20Codes/)
+  - [📖 Notes / Slides](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Notes.md)
+  - [📝 Assignment](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Assignment.md)
+  - [🖥️ Assignment Solution](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
+    - [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
 
 <br />
 
