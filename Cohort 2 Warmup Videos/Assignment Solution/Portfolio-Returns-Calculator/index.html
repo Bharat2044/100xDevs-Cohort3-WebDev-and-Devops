@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Returns Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator">
+        <div class="input-group">
+            <div class="left">
+                <div class="input-box">
+                    <label for="capital">Capital</label>
+                    <input type="number" id="capital" placeholder="Enter capital">
+                </div>
+                <div class="input-box">
+                    <label for="years">Years</label>
+                    <input type="number" id="years" placeholder="Enter years">
+                </div>
+                <div class="input-box">
+                    <label for="interest">Interest (%)</label>
+                    <input type="number" id="interest" placeholder="Enter interest rate">
+                </div>
+            </div>
+
+            <div class="output">
+                <span>Total Amount</span>
+                <p id="result">0.00</p>
+            </div>
+        </div>
+
+        <button onclick="calculateReturns()">Calculate</button>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.calculator {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+}
+
+.input-box {
+  margin-bottom: 15px;
+}
+
+.input-box label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.input-box input {
+  width: 80%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.input-box input:focus {
+  outline: none;
+  border-color: rgb(108, 106, 104);
+}
+
+.output {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+
+.output span {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+#result {
+  font-size: 22px;
+  font-weight: 500;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 120px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(34, 135, 217);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+button:hover {
+  background-color: black;
+}
