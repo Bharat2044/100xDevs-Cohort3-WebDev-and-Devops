@@ -1,0 +1,381 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  width: 100%;
+  line-height: 1.7;
+  font-weight: 400;
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #387ed1;
+}
+
+li {
+  list-style: none;
+}
+
+/* nav styling */
+nav {
+  height: 65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-flow: row wrap;
+  padding: 0px 80px;
+  box-shadow: 2px 1px 2px #eee;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  background-color: #ffffff;
+}
+
+nav .logo img {
+  max-height: 17px;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+nav .nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+nav .nav-links li a {
+  color: #666666;
+  font-size: 14px;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 20px 15px;
+}
+
+nav .nav-links li a:hover {
+  color: #387ed1;
+}
+
+nav .nav-links li i {
+  cursor: pointer;
+}
+
+/* hero styling */
+.hero {
+  padding: 20px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  gap: 80px;
+}
+
+/* landing-page styling */
+.landing-page {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.landing-page img {
+  width: 60%;
+  margin-bottom: 35px;
+}
+
+.landing-page h3,
+.account h3 {
+  font-size: 44px;
+  line-height: 55px;
+  color: #424242;
+  font-weight: 500;
+}
+
+.landing-page p {
+  font-size: 20px;
+  line-height: 35px;
+  color: #424242;
+}
+
+.landing-page a,
+.account a {
+  padding: 5px 30px;
+  background-color: #387ed1;
+  color: #ffffff;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.landing-page a:hover,
+.account a:hover {
+  background-color: black;
+}
+
+/* ecosystem section styling */
+.ecosystem,
+.pricing,
+.varsity {
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.ecosystem .leftEcosystem,
+.pricing .leftPricing,
+.varsity .leftVarsity {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 25px;
+}
+
+.ecosystem .leftEcosystem h2,
+.pricing .leftPricing h2 {
+  color: #424242;
+  font-size: 32px;
+  line-height: 50px;
+  font-weight: 500;
+}
+
+.ecosystem .leftEcosystem div h4 {
+  color: #424242;
+  font-size: 20px;
+  line-height: 34px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.ecosystem .leftEcosystem div p,
+.pricing .leftPricing p,
+.varsity .rightVarsity p {
+  color: #666666;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 500;
+}
+
+.ecosystem .rightEcosystem,
+.pricing .rightPricing {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.ecosystem .rightEcosystem a img {
+  width: 100%;
+}
+
+.ecosystem .rightEcosystem div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  font-size: 18px;
+}
+
+.ecosystem .rightEcosystem div a:hover,
+.ecosystem .leftEcosystem a:hover,
+.varsity .rightVarsity a:hover,
+.pricing .leftPricing a:hover {
+  color: black;
+}
+
+/* press section styling */
+.press {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* pricing section */
+.pricing .rightPricing {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.7;
+  color: #424242;
+  padding-right: 10px;
+}
+
+.pricing .rightPricing .pricing-box {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  position: relative;
+}
+
+.pricing .rightPricing .pricing-box img {
+  width: 100px;
+}
+
+/* varsity section styling */
+.varsity .leftVarsity a img {
+  width: 100%;
+}
+
+.varsity .rightVarsity {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+
+.varsity .rightVarsity h3 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #424242;
+}
+
+/* account section styling */
+.account {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+
+.landing-page p,
+.account p {
+  font-size: 16px;
+  line-height: 35px;
+  color: #424242;
+}
+
+/* footer styling */
+footer {
+  padding: 30px 80px 20px 80px;
+  background-color: #fbfbfb;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 50px;
+}
+
+footer p {
+  font-size: 12px;
+  color: #9b9b9b;
+}
+
+footer .upperPartFooter {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding-right: 100px;
+}
+
+footer .upperPartFooter .social-profile {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+footer .upperPartFooter img {
+  max-width: 150px;
+  cursor: pointer;
+}
+
+footer .upperPartFooter .social-profile .social-icon {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+}
+
+footer .upperPartFooter .social-profile .icon1 {
+  border-bottom: 1px solid #e6e5e5;
+  padding-bottom: 10px;
+}
+
+footer .upperPartFooter .social-profile .social-icon a {
+  color: #666666;
+}
+
+footer .upperPartFooter .social-profile .social-icon a:hover {
+  color: #387ed1;
+}
+
+footer .upperPartFooter .footer-link {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+footer .upperPartFooter .footer-link h3 {
+  font-size: 20px;
+  color: #424242;
+  font-weight: 500;
+}
+
+footer .upperPartFooter .footer-link div {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .upperPartFooter .footer-link div a {
+  color: #666666;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+footer .upperPartFooter .footer-link div a:hover,
+footer .lowerPartFooter .footer-link a:hover {
+  color: #387ed1;
+}
+
+footer .lowerPartFooter {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 15px;
+}
+
+footer .lowerPartFooter a:hover {
+  color: #424242;
+}
+
+footer .lowerPartFooter .footer-link {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 100px;
+}
+
+footer .lowerPartFooter .footer-link a {
+  color: #9b9b9b;
+  font-size: 14px;
+  font-weight: 500;
+}
