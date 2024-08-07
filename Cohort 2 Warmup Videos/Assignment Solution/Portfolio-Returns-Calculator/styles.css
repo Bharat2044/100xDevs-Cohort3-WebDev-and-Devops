@@ -23,6 +23,14 @@ body {
   gap: 10px;
 }
 
+.heading {
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 10px;
+  color: rgb(124, 0, 226);
+}
+
 .input-group {
   display: flex;
   justify-content: center;
@@ -52,6 +60,14 @@ body {
   border-color: rgb(108, 106, 104);
 }
 
+.output-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-around;
+  gap: 20px;
+}
+
 .output {
   text-align: center;
   display: flex;
@@ -62,17 +78,17 @@ body {
 }
 
 .output span {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 500;
 }
 
-#result {
+#totalAmount, #totalInterest {
   font-size: 22px;
   font-weight: 500;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  width: 120px;
+  min-width: 120px;
 }
 
 button {
