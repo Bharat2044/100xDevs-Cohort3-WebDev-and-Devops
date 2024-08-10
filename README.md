@@ -1,6 +1,6 @@
 # **`100xDevs (Harkirat) Cohort 3.0 Web Dev + Devops 🚀`**
 
-> ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) from Zero to Hero 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains Lecture Codes, Assignmenst, Assignment Solution & Notes of this course._
+> ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains Lecture Codes, Assignmenst, Assignment Solution & Notes of this course._
 
 ## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3)
 
