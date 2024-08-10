@@ -50,6 +50,11 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
   - [🖥️ Assignment Solution](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
     - [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
 
+
+## 📚 [Week 02](./Week%2002/)
+### 💻 [**2.1 - Async JS**](./Week%2002/)
+  - [👨‍💻 Lecture Codes](./Week%2002/2.1/Lecture%20Codes/)
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
