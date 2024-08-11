@@ -5,7 +5,7 @@ const date = new Date();
 console.log(date); // Output: 2024-08-11T15:13:47.818Z
 
 // print the current year
-console.log(date.getFullYear()); 
+console.log(date.getFullYear());  
 
 // print the current month
 console.log(date.getMonth());
