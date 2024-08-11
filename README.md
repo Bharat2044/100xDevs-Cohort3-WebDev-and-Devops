@@ -62,7 +62,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Assignment%20Solution/)
 
 ### 💻 [**2.2 - Promises and Async Await**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises%20and%20Async%20Await/)
-> **`Topics Covered:` -** Classes, Inheritance, Date & Map Class, Promise Class, Callback Hell, Async Await, Creating Our Own async function, err first callback vs rejects in promises... and Solve Some Problems.
+> **`Topics Covered:` -** Class and Object, Date & Map Class, Callback, setTimeOut, Promise Class, Creating promisified version of fs.readFile and Solve Some Problems.
 - 👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises%20and%20Async%20Await/Lecture%20Codes/)
 - 📖 [**Notes / Slides**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises%20and%20Async%20Await/2.2%20-%20Promises%20and%20Async%20Await%20Notes.md)
 - 📝 [**Assignment**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises%20and%20Async%20Await/2.2%20-%20Promises%20and%20Async%20Await%20Assignment.md)
