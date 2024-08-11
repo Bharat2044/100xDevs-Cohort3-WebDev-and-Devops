@@ -57,8 +57,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ### 💻 [**2.1 - Async JS**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/)
 > **`Topics Covered:` -** Synchronous, Asynchronous Code, I/O heavy operations, fs Module, fs.readFile, fs.readFileSync, I/O bound tasks vs CPU bound tasks, Functional Arguments, Callbacks, setTimeout, Call Stack... & Solve Some Problems.
 - 👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Lecture%20Codes/)
-- 📖 [**Notes / Slides**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/1.1%20-%20Async%20JS%20Notes.md)
-- 📝 [**Assignment**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/1.1%20-%20Async%20JS%20Assignment.md)
+- 📖 [**Notes / Slides**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Notes.md)
+- 📝 [**Assignment**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Assignment%20Solution/)
 
 ### 💻 [**2.2 - Promises and Async Await**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises%20and%20Async%20Await/)
