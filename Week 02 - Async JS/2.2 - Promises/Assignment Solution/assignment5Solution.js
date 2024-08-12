@@ -9,7 +9,7 @@ function promisifiedFetch(url) {
     fetch(url)
       .then((data) => resolve(data)) // if the fetch is successful, resolve the promise with the data
       .catch((error) => reject(error)); // if the fetch fails, reject the promise with the error
-  });
+  }); 
 }
 
 // call the promisifiedFetch function with the url of the data to fetch

@@ -15,7 +15,7 @@ function promisifiedReadFile(path) {
                 } else {
                     // if the file read fails, reject the promise with the error
                     reject(error);
-                }
+                } 
             });
         }
     );

@@ -4,7 +4,7 @@ class Shape {
   constructor(color) {
     this.color = color;
   }
-
+ 
   // Method to paint shape with color
   paint() {
     console.log(`Painting with color ${this.color}`);

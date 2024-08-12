@@ -4,7 +4,7 @@ class Circle {
   constructor(radius, color) {
     this.radius = radius;
     this.color = color;
-  }
+  } 
 
   // Method to calculate area of circle and return it
   area() {

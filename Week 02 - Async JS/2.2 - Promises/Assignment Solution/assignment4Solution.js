@@ -11,7 +11,7 @@ function promisifiedSetTimeout(time) {
             resolve();
         }, time);
     });
-}
+} 
 
 // call the promisifiedSetTimeout function with a time of 2 seconds
 promisifiedSetTimeout(3000).then(() => {

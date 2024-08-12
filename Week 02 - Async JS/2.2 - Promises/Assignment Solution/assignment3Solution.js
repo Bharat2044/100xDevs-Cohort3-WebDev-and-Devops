@@ -6,7 +6,7 @@
  * 3. logs hello there 5 seconds after step 2
  */
 
-/*
+/* 
 // callback hell example - nested callbacks 
 setTimeout(function () {
   // print hi after 1 second
