@@ -94,3 +94,19 @@ button:hover {
 .todo-item button {
     margin-left: 5px;
 }
+
+.todo-item > button {
+    background-color: #ce770e;
+}
+
+.todo-item > button:hover {
+    background-color: #ff8c00;
+}
+
+.todo-item > button + button {
+    background-color: #dc3545;
+}
+
+.todo-item > button + button:hover {
+    background-color: #fb041d;
+}
