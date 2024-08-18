@@ -64,12 +64,32 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Assignment%20Solution/)
 
 ### 💻 [**2.2 - Promises**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/)
+
 > **`Topics Covered:` -** Class and Object, Date & Map Class, Callback, setTimeOut, Promise Class, Creating promisified version of fs.readFile and Solve Some Problems.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Lecture%20Codes/)
 - 📖 [**Notes / Slides**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Notes.md)
 - 📝 [**Assignment**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Assignment%20Solution/)
+
+## 📚 [Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
+
+- 💻 [**1. Bash and Terminals (Basics)**](<./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics)/>)
+- 💻 [**2. Bash Advance (Laisha)**](./Week%2002%20-%20Offline%20Videos/2.%20Bash%20Advance/)
+- 💻 [**3. Installing Node.js, How to solve an assignment**]()
+- 💻 [**4. Solving VSCode Assignment**]()
+- 💻 [**5. Callback hell, Rejects and async-await**]()
+
+## 📚 [Week 03 - DOM](./Week%2003%20-%20DOM/)
+
+### 💻 [**3.1 - DOM Simple**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/)
+
+> **`Topics Covered:` -** What is DOM, Why DOM, Static HTML, Fetching Elements(querySelector, querySelectorAll, getElementById, getElementByClassName, getElementsByClassName), Updating elements(Create Stop Watch), Deleting elements(removeChild), Adding elements(createElement, appendChild) and Build Simple Todo App.
+
+- 👨‍💻 [**Lecture Codes**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Lecture%20Codes/)
+- 📖 [**Notes / Slides**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Notes.md)
+- 📝 [**Assignment**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Assignment%20Solution/)
 
 <br />
 
