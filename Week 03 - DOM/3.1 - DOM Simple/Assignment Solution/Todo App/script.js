@@ -49,7 +49,7 @@ function createInputElement(value) {
 // Function to create an update button
 function createUpdateButton(inputElement) {
     const updateBtn = document.createElement("button");
-    updateBtn.textContent = "Update";
+    updateBtn.textContent = "Edit";
   
     updateBtn.onclick = function () {
       if (inputElement.readOnly) {
@@ -59,7 +59,7 @@ function createUpdateButton(inputElement) {
         inputElement.style.outline = "1px solid #007BFF"; // Add blue focus color
       } else {
         inputElement.readOnly = true;
-        updateBtn.textContent = "Update";
+        updateBtn.textContent = "Edit";
         inputElement.style.outline = "none"; // Remove focus outline
       }
     };
