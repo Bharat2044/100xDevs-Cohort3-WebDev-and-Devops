@@ -122,3 +122,5 @@ Steps -
 </html>
 ```
 ![images](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F085e8ad8-528e-47d7-8922-a23dc4016453%2F7f30661b-5052-4e15-9f94-1239b54ff2bf%2FScreenshot_2024-08-17_at_6.55.43_PM.png?table=block&id=f3a19c89-0824-49a3-801e-fb38bccab8b1&cache=v2)
+
+### Assignment #7 - Create a Todo List App with Add, Update & Delete Functionality
