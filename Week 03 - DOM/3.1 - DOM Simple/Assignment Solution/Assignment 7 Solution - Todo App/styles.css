@@ -82,7 +82,7 @@ button:hover {
   align-items: center;
   margin-bottom: 10px;
   background-color: #ededed;
-  padding: 2px 5px;
+  padding: 2px 5px 2px 0px;
   border-radius: 4px;
 }
 
