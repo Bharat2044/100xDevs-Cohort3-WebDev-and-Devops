@@ -1,6 +1,6 @@
 # **`100xDevs (Harkirat) Cohort 3.0 Web Dev + Devops 🚀`**
 
-> ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains Lecture Codes, Assignmenst, Assignment Solution & Notes of this course._
+> ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains Lecture Codes, Assignmenst, Assignment Solution, Notes and also some good articles/blogs link of this course._
 
 ## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3)
 
@@ -14,7 +14,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 # 👨‍💻 **Contents** 👀
 
-**This repository contains a `Collection of Codes, Assignments, Assignments Solutions & Notes`, which help you.**
+**This repository contains a `Collection of Codes, Assignments, Assignments Solutions, Notes and some good videos & articles/blogs` link, which helps you.**
 
 ## 📚 [Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
