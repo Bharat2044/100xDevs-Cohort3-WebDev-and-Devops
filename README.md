@@ -23,7 +23,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 > **`Topics Covered:` HTML Basic -** Tags, Attributes, title, body, div, span, h1-h6, b, i, u, br, a, center, img, input, button... & **CSS Basic -** inline css, external css, color, background-color, selectors, class, id, font-size, font-weigth, border, padding, margin, flexbox... & **Build some part of VS Code Landing Page**.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Lecture%20Codes/)
-- 📖 [**Notes / Slides**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Notes.md)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Notes.md)
 - 📝 [**Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Assignment%20Solution/)
   - [VS Code Landing Page Clone Live Link 🚀](https://vscode-clone-bharat.vercel.app/)
@@ -33,7 +33,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 > **`Topics Covered:` JavaScript Basic -** Interpreted, Compiled Time Language, Dynamically Typed, Single threaded, Multithreading, Garbage collector, JavaScript Synatx, Variables, var, let, const, datatypes, numer, string, boolean, operators, functions, if/else, loops, objects, arrays, array of objects, object of objects, problem solving and solved assignment problems.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Lecture%20Codes/)
-- 📖 [**Notes / Slides**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Notes.md)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Notes.md)
 - 📝 [**Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
   - [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
@@ -45,7 +45,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 💻 [**Intro, Setting up your IDE**](./Cohort%202%20Warmup%20Videos/1.%20Intro,%20Setting%20up%20your%20IDE/)
 - 💻 [**Basic HTML (Tags and Attributes)**](./Cohort%202%20Warmup%20Videos/2.%20Basic%20HTML%20-%20Tags%20and%20Attributes/)
 - 💻 [**Basic CSS**](./Cohort%202%20Warmup%20Videos/3.%20Basic%20CSS/)
-- 📖 [**Notes / Slides**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
 - 📝 [**Assignment**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Assignment.md)
 - 👨‍💻 [**Assignment Solution**](./Cohort%202%20Warmup%20Videos/Assignment%20Solution/)
 - 🔗 **Project Live Link**
@@ -59,7 +59,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 > **`Topics Covered:` -** Synchronous, Asynchronous Code, I/O heavy operations, fs Module, fs.readFile, fs.readFileSync, I/O bound tasks vs CPU bound tasks, Functional Arguments, Callbacks, setTimeout, Call Stack... & Solve Some Problems.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Lecture%20Codes/)
-- 📖 [**Notes / Slides**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Notes.md)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Notes.md)
 - 📝 [**Assignment**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Assignment%20Solution/)
 
@@ -68,7 +68,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 > **`Topics Covered:` -** Class and Object, Date & Map Class, Callback, setTimeOut, Promise Class, Creating promisified version of fs.readFile and Solve Some Problems.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Lecture%20Codes/)
-- 📖 [**Notes / Slides**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Notes.md)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Notes.md)
 - 📝 [**Assignment**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Assignment%20Solution/)
 
@@ -87,7 +87,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 > **`Topics Covered:` -** What is DOM, Why DOM, Static HTML, Dynamic HTML, Fetching Elements(querySelector, querySelectorAll, getElementById, getElementByClassName, getElementsByClassName), Updating elements(Create Stop Watch), Deleting elements(removeChild), Adding elements(createElement, appendChild) and Build Simple Todo App.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Lecture%20Codes/)
-- 📖 [**Notes / Slides**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Notes.md)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Notes.md)
 - 📝 [**Assignment**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Assignment%20Solution/)
   - [Todo App Live Link 🚀](https://todo-list-bharat.vercel.app/)
