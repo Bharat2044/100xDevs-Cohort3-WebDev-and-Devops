@@ -16,20 +16,6 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 **This repository contains a `Collection of Codes, Assignments, Assignments Solutions & Notes`, which help you.**
 
-## 📚 [Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
-
-> **`Topics Covered`: VS Code Installation & HTML Basic -** Tags, Attributes, Heading(h1-h6), div, span, title, body, head, p, img, a, input, button,b, br, center... & **CSS Basic -** Inline CSS, color, id, class, selector, color, background-color, font-size, font-weight, padding, margin, text-align, border, border-radius, box-shadow, float, flexbox & **Build Some Part of Zerodha Landing Page**.
-
-- 💻 [**Intro, Setting up your IDE**](./Cohort%202%20Warmup%20Videos/1.%20Intro,%20Setting%20up%20your%20IDE/)
-- 💻 [**Basic HTML (Tags and Attributes)**](./Cohort%202%20Warmup%20Videos/2.%20Basic%20HTML%20-%20Tags%20and%20Attributes/)
-- 💻 [**Basic CSS**](./Cohort%202%20Warmup%20Videos/3.%20Basic%20CSS/)
-- 📖 [**Notes / Slides**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
-- 📝 [**Assignment**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Assignment.md)
-- 👨‍💻 [**Assignment Solution**](./Cohort%202%20Warmup%20Videos/Assignment%20Solution/)
-- 🔗 **Project Live Link**
-  - [Zerodha Landing Page Clone 🚀](https://zerodha-clone-bharat.vercel.app/)
-  - [Portfolio Returns Calculator 🚀](https://compound-interest-calculator-psi.vercel.app/)
-
 ## 📚 [Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
 ### 💻 [**1.1 - Web Dev + Devops Orientation**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/)
@@ -51,6 +37,20 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📝 [**Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
   - [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
+
+## 📚 [Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
+
+> **`Topics Covered`: VS Code Installation & HTML Basic -** Tags, Attributes, Heading(h1-h6), div, span, title, body, head, p, img, a, input, button,b, br, center... & **CSS Basic -** Inline CSS, color, id, class, selector, color, background-color, font-size, font-weight, padding, margin, text-align, border, border-radius, box-shadow, float, flexbox & **Build Some Part of Zerodha Landing Page**.
+
+- 💻 [**Intro, Setting up your IDE**](./Cohort%202%20Warmup%20Videos/1.%20Intro,%20Setting%20up%20your%20IDE/)
+- 💻 [**Basic HTML (Tags and Attributes)**](./Cohort%202%20Warmup%20Videos/2.%20Basic%20HTML%20-%20Tags%20and%20Attributes/)
+- 💻 [**Basic CSS**](./Cohort%202%20Warmup%20Videos/3.%20Basic%20CSS/)
+- 📖 [**Notes / Slides**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
+- 📝 [**Assignment**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Assignment.md)
+- 👨‍💻 [**Assignment Solution**](./Cohort%202%20Warmup%20Videos/Assignment%20Solution/)
+- 🔗 **Project Live Link**
+  - [Zerodha Landing Page Clone 🚀](https://zerodha-clone-bharat.vercel.app/)
+  - [Portfolio Returns Calculator 🚀](https://compound-interest-calculator-psi.vercel.app/)
 
 ## 📚 [Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
 
@@ -74,7 +74,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
 
-- 💻 [**1. Bash and Terminals (Basics)**](./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics))
+- 💻 [**1. Bash and Terminals (Basics)**](<./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics)>)
 - 💻 [**2. Bash Advance (Laisha)**](./Week%2002%20-%20Offline%20Videos/2.%20Bash%20Advance/)
 - 💻 [**3. Installing Node.js, How to solve an assignment**]()
 - 💻 [**4. Solving VSCode Assignment**]()
