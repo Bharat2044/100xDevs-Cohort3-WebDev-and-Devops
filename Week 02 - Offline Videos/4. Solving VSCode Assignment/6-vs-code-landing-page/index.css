@@ -1,0 +1,259 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
+.buttonBanner {
+    color: #9ba3b4;
+    background-color: rgba(255, 255, 255, 0.04);
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 32px;
+    border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.bannerLink {
+    padding-right: 8px;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.heroContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heroContainer > div {
+    text-align: left;
+}
+
+.flex {
+    display: flex;
+}
+
+.navContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.verticalCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.navLink {
+    padding-left: 20px;
+    color: gray;
+}
+
+.topImage {
+    padding-right: 12px;
+}
+
+.banner {
+    padding: 10px;
+    background-color: black;
+    color: gray;
+    font-size: 14px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.navLink:hover {
+    color: white;
+}
+
+.searchInput {
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 255, 0.2);
+    padding: 8px;
+    font-size: 16px;
+    background-color: black;
+}
+
+.downloadButton {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 7px;
+    padding-left: 0px;
+    width: 120px;
+    padding-right: 0px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+/* Header Styles */
+header {
+    background-color: black;
+    color: white;
+}
+
+section {
+    background-color: black;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    color: #0078d4;
+    font-size: 1em;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #007acc;
+}
+
+/* Hero Section Styles */
+.hero {
+    background: linear-gradient(180deg, #0e0e0e 0%, #141414 100%);
+    color: white;
+    padding: 50px 20px;
+}
+
+.hero h2 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2em;
+}
+
+.cta-button {
+    display: inline-block;
+    background: #0078d4;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background 0.3s;
+}
+
+.cta-button:hover {
+    background: #e5b800;
+}
+
+/* Language Style  */
+.language {
+    color: white;
+}
+
+.language .container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 2rem;
+}
+
+.language .container p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 160%;
+    color: #9ba3b4;
+}
+
+.language .languagePanel {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-inline: 2.5rem;
+}
+
+.languagePanel img {
+    height: 40px;
+    width: auto;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+/* Responsiveness, we'll discuss this when we reach tailwind
+@media (width < 1200px) {
+    .heroContainer div:has(img) {
+        width: 66.66666667%;
+        padding-inline: 2.5rem;
+    } 
+    .heroContainer img {
+        width: 100%;
+    }
+    .container {
+        max-width: 970px;
+    }
+    .navContainer {
+        max-width: 1060px;
+    }
+    .language .container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero {
+        padding-block: 40px;
+    }
+    
+    .hero p {
+        font-size: 1em;
+    }
+    
+    .verticalCenter > div:has(.navLink) {
+        display: none;
+    }
+    .navContainer {
+       max-width: 600px;
+    }
+    .heroContainer {
+        flex-direction: column;
+        align-items: center;
+        gap:40px
+
+    }
+    .heroContainer > div {
+        text-align: center
+    }
+    .heroContainer div:has(img) {
+        width: 100%;
+    }
+    .language .languagePanel {
+        grid-template-columns: max-content 1fr max-content 1fr;
+    }
+}
+ */
