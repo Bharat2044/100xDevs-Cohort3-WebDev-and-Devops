@@ -3,4 +3,9 @@
 
 ## [Assignment GitHub Repository Link](https://github.com/100xdevs-cohort-3/assignments)
 
-## Create Full VS Code Landing Page Clone
+## Assignment #1 - Create Whole Page of VS Code Landing Page Website
+
+## Assignment #2 - Q: Write a function that
+- Reads the contents of a file
+- Trims the extra space from the left and right
+- Writes it back to the file
