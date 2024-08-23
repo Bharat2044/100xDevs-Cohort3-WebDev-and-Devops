@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Todo List</title>
+        <style>
+            #todos div {
+                margin: 10px 0px;
+            }
+            #todos div h4 {
+                display: inline;
+                margin-right: 10px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Todo List</h1>
+        <div id="todos">
+            <div id="todo-1">
+                <h4>1. Take class</h4>
+                <button onclick="deleteTodo(1)">Delete</button>
+            </div>
+            
+            <div id="todo-2">
+                <h4>2. Go out to eat</h4>
+                <button onclick="deleteTodo(2)">Delete</button>
+            </div>
+        </div>
+
+        <div>
+            <input id="input" type="text" />
+            <button onclick="addTodo()">Add Todo</button>
+        </div>
+
+        <script src="./index.js"></script>
+    </body>
+</html>
