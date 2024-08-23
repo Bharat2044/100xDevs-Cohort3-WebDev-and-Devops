@@ -75,12 +75,12 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 - 💻 [**1. Bash and Terminals (Basics)**](<./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics)>)
 - 💻 [**2. Bash Advance (Laisha)**](./Week%2002%20-%20Offline%20Videos/2.%20Bash%20Advance/)
-- 💻 [**3. Installing Node.js, How to solve an assignment**]()
-- 💻 [**4. Solving VSCode Assignment**]()
-- 💻 [**5. Callback hell, Rejects and async-await**]()
-- 📖 [**Notes/Slides & Articles/Blogs Link**]()
-- 📝 [**Lecture Assignment**]()
-- 🖥️ [**Assignment Solution**]()  
+- 💻 [**3. Installing Node.js, How to solve an assignment**](./Week%2002%20-%20Offline%20Videos/3.%20Installing%20Node.js,%20How%20to%20solve%20an%20assignment/)
+- 💻 [**4. Solving VSCode Assignment**](./Week%2002%20-%20Offline%20Videos/4.%20Solving%20VSCode%20Assignment/)
+- 💻 [**5. Callback hell, Rejects and async-await**](./Week%2002%20-%20Offline%20Videos/5.%20Callback%20hell,%20Rejects%20and%20async-await/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Offline%20Videos/Week%2002%20-%20Offline%20Videos%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2002%20-%20Offline%20Videos/Week%2002%20-%20Offline%20Videos%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2002%20-%20Offline%20Videos/Assignment%20Solution/)  
   - [Whole Page of VS Code Clone Live Link 🚀](https://vscode-clone-bharat.vercel.app/)
 - 📒[**Cohort 3.0 - GitHub Assignment Repository Link**](https://github.com/100xdevs-cohort-3/assignments)
 
