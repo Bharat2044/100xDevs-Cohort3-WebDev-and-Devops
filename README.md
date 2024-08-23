@@ -48,9 +48,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📖 [**Notes/Slides & Articles/Blogs Link**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
 - 📝 [**Lecture Assignment**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Assignment.md)
 - 👨‍💻 [**Assignment Solution**](./Cohort%202%20Warmup%20Videos/Assignment%20Solution/)
-- 🔗 **Project Live Link**
-  - [Zerodha Landing Page Clone 🚀](https://zerodha-clone-bharat.vercel.app/)
-  - [Portfolio Returns Calculator 🚀](https://compound-interest-calculator-psi.vercel.app/)
+  - [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
+  - [Portfolio Returns Calculator Live Link 🚀](https://compound-interest-calculator-psi.vercel.app/)
 
 ## 📚 [Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
 
@@ -79,6 +78,11 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 💻 [**3. Installing Node.js, How to solve an assignment**]()
 - 💻 [**4. Solving VSCode Assignment**]()
 - 💻 [**5. Callback hell, Rejects and async-await**]()
+- 📖 [**Notes/Slides & Articles/Blogs Link**]()
+- 📝 [**Lecture Assignment**]()
+- 🖥️ [**Assignment Solution**]()  
+  - [Whole Page of VS Code Clone Live Link 🚀](https://vscode-clone-bharat.vercel.app/)
+- 📒[**Cohort 3.0 - GitHub Assignment Repository Link**](https://github.com/100xdevs-cohort-3/assignments)
 
 ## 📚 [Week 03 - DOM](./Week%2003%20-%20DOM/)
 
@@ -90,7 +94,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Notes.md)
 - 📝 [**Lecture Assignment**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Week%2003%20-%20DOM%20Manipulation%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/Assignment%20Solution/)
-  - [Todo App Live Link 🚀](https://todo-list-bharat.vercel.app/)
+  - [Todo App using JavaScript Live Link 🚀](https://todo-list-bharat.vercel.app/)
 
 ### 💻 [**3.2 - DOM Advance**](./Week%2003%20-%20DOM/3.2%20-%20DOM%20Advance/)
 
