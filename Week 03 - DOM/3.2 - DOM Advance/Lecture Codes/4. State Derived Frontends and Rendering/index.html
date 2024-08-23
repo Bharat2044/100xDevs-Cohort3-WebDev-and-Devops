@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>State Derived Frontends & Rendering</title>
+
+        <style>
+            span {
+                margin-right: 8px;
+            }
+            div {
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <input type="text" placeholder="Write Something..." />
+        <button onclick="addTodo()">Add Todo!</button>
+        <button onclick="deleteFirstTodo()">Delete First Todo!</button>
+        <button onclick="deleteLastTodo()">Delete Last Todo!</button>
+
+        <div id="todos"></div>
+
+        <script src="./index.js"></script>
+    </body>
+</html>
