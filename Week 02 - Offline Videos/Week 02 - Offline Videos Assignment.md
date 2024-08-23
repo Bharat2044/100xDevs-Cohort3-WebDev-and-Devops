@@ -1,7 +1,7 @@
 # **Week 02 - Offline Videos**
 
 
-## [Assignment GitHub Repository Link](https://github.com/100xdevs-cohort-3/assignments)
+## [Cohort 3 Assignments GitHub Repository Link](https://github.com/100xdevs-cohort-3/assignments)
 
 ## Assignment #1 - Create Whole Page of VS Code Landing Page Website
 
