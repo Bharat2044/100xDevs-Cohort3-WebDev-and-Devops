@@ -73,6 +73,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
 
+> **`Topics Covered:`** Node.js Installation, Linux Command Basic and Advanced(cd, pwd, ls, touch, mkdir, rm, mv, cat, cp, chmod, echo, head, tail, |, wc, grep, history), Bash Scripting, Vim Editor, How to solve Assignment, Solve Basic CSS Assignment, VSCode Landing Page, Callback Hell, setTimeout(), async/await, Promisified Version of readFile using async/await and Solved Some Problems
+
 - 💻 [**1. Bash and Terminals (Basics)**](<./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics)>)
 - 💻 [**2. Bash Advance (Laisha)**](./Week%2002%20-%20Offline%20Videos/2.%20Bash%20Advance/)
 - 💻 [**3. Installing Node.js, How to solve an assignment**](./Week%2002%20-%20Offline%20Videos/3.%20Installing%20Node.js,%20How%20to%20solve%20an%20assignment/)
