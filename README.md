@@ -112,6 +112,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ## 📚 [Week 04 - NodeJS and the JS Runtime](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/)
 
 ### 💻 [**4.1 - NodeJS and the JS Runtime**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/)
+> **`Topics Covered:`** What is Node.js, V8 Engine, Bun JavaScript Runtime, Node.js Project, npm, chalk module, Internal and External Packages, `package.json` & `package-lock.json` file & Solved Some Problems.
 
 - 👨‍💻 [**Lecture Codes**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/Lecture%20Codes/)
 - 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime%20Notes.md)
