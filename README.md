@@ -108,6 +108,16 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 🖥️ [**Assignment Solution**](./Week%2003%20-%20DOM/3.2%20-%20DOM%20Advance/Assignment%20Solution/)
   - [Todo App using ReactJS Live Link 🚀](https://todo-list2-bharat.vercel.app/)
 
+
+## 📚 [Week 04 - NodeJS and the JS Runtime](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/)
+
+### 💻 [**4.1 - NodeJS and the JS Runtime**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/)
+
+- 👨‍💻 [**Lecture Codes**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/Lecture%20Codes/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/Assignment%20Solution/)
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
