@@ -109,15 +109,15 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
   - [Todo App using ReactJS Live Link 🚀](https://todo-list2-bharat.vercel.app/)
 
 
-## 📚 [Week 04 - NodeJS and the JS Runtime](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/)
+## 📚 [Week 04 - Node.js and HTTP](./Week%2004%20-%20Node.js%20and%20HTTP/)
 
-### 💻 [**4.1 - NodeJS and the JS Runtime**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/)
+### 💻 [**4.1 - Node.js, Bun and JS Runtimes**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/)
 > **`Topics Covered:`** What is Node.js, V8 Engine, Bun JavaScript Runtime, Node.js Project, npm, chalk module, Internal and External Packages, `package.json` & `package-lock.json` file & Solved Some Problems.
 
-- 👨‍💻 [**Lecture Codes**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/Lecture%20Codes/)
-- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime%20Notes.md)
-- 📝 [**Lecture Assignment**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime%20Assignment.md)
-- 🖥️ [**Assignment Solution**](./Week%2004%20-%20NodeJS%20and%20the%20JS%20Runtime/4.1%20-%20NodeJS%20and%20the%20JS%20Runtime/Assignment%20Solution/)
+- 👨‍💻 [**Lecture Codes**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/Lecture%20Codes/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/Assignment%20Solution/)
 
 <br />
 
