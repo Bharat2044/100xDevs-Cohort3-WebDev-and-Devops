@@ -1,0 +1,15 @@
+{
+  "name": "07_count-number-of-words-and-lines-of-the-file-using-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
