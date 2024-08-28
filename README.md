@@ -119,6 +119,14 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📝 [**Lecture Assignment**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/Assignment%20Solution/)
 
+### 💻 [**4.2 - HTTP Servers**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/)
+> **`Topics Covered:`** HTTP Protocols, Request Response Model, Ports, Methods (GET, POST, PUT, DELETE), Response, Status Code, (2xx, 3xx, 4xx, 5xx), Body, Routes, Headers, Clients (Browser & Postman) and Created our First HTTP Server using Express. 
+
+- 👨‍💻 [**Lecture Codes**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Lecture%20Codes/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/4.2%20-%20HTTP%20Servers%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/4.2%20-%20HTTP%20Servers%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Assignment%20Solution/)
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
