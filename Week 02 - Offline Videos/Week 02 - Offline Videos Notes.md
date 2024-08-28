@@ -1,5 +1,7 @@
 # **Week 02 - Offline Videos**
 
+## [Slides Link](https://projects.100xdevs.com/tracks/installing-node-assignments/-1)
+
 ## [3. Installing Node, How to Solve an Assignment Slides Link](https://petal-estimate-4e9.notion.site/Installing-node-Solving-assignments-3dfb37111f9e48ca80caac66dbe97331)
 
 ## [5. Callback Hell, Rejects and async/await Slides Link](https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1)
