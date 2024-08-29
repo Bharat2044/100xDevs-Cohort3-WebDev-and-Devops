@@ -25,6 +25,8 @@ let todos = [];
 app.post("/todos/create", (req, res) => {
     // get the todo from the request body
     const { todo } = req.body;
+
+    // get the todo id from the request body and convert it to integer
     const id = parseInt(req.body.id);
 
     if (!id) {
@@ -85,28 +87,31 @@ app.delete("/todos/delete/:id", function (req, res) {
     // get the todo id from the request parameters and convert it to integer
     const todoId = parseInt(req.params.id);
 
-    // create a flag variable and set it to false
-    let flag = false;
+    // create a deleted variable and set it to false
+    let deleted = false;
 
-    // create a temporary array to store the todos after deleting the todo with the given id
-    const tempArray = [];
+    // create a tempTodos array to store the todos after deleting the todo with the given id
+    const tempTodos = [];
 
     // find the todo with the given id from the todos array and delete it
     for (let i = 0; i < todos.length; i++) {
-        // if todo is found with the given id, push it to the temporary array and set flag to true
+        // if todo is found with the given id, set deleted to true and skip adding it to tempTodos
         if (todos[i].id === todoId) {
-            tempArray.push(todos[i]);
-            flag = true;
+            deleted = true;
+            continue; // skip adding this todo to tempTodos
         }
+
+        // add the todo to tempTodos array
+        tempTodos.push(todos[i]);
     }
 
     // if todo is not found with the given id, send a response with message "Todo not found with id" and the todo id
-    if (!flag) {
+    if (!deleted) {
         return res.send("Todo not found with id " + todoId);
     }
 
     // update the todos array with the temporary array
-    todos = tempArray;
+    todos = tempTodos;
 
     // send a response with message "Todo deleted successfully with id" and the todo id
     res.send("Todo deleted successfully with id " + todoId);
@@ -128,24 +133,24 @@ app.put("/todos/update/:id", function (req, res) {
     const todoId = parseInt(req.params.id);
 
     // if todo is empty, send a response with message "Todo cannot be empty"
-    if (todo.trim() === "") {
+    if (!todo || todo.trim() === "") {
         return res.send("Todo cannot be empty");
     }
 
-    // create a flag variable and set it to false
-    let flag = false;
+    // create a updated variable and set it to false
+    let updated = false;
 
     // find the todo with the given id from the todos array and update the title
     for (let i = 0; i < todos.length; i++) {
-        // if todo is found with the given id, update the title and set flag to true
+        // if todo is found with the given id, update the title and set updated to true
         if (todos[i].id === todoId) {
             todos[i].title = todo;
-            flag = true;
+            updated = true;
         }
     }
 
     // if todo is not found with the given id, send a response with message "Todo not found with id" and the todo id
-    if (!flag) {
+    if (!updated) {
         return res.send("Todo not found with id " + todoId);
     }
 
