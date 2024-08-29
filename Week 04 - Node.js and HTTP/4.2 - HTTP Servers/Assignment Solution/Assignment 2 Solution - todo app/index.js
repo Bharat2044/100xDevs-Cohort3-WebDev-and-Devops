@@ -35,7 +35,6 @@ const writeTodosToFile = (data) => {
     fs.writeFileSync(todosFilePath, JSON.stringify(data, null, 2), "utf-8");
 };
 
-
 /**
  * create a route handler for POST request
  *
