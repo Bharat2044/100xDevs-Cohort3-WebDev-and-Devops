@@ -35,6 +35,7 @@ const writeTodosToFile = (data) => {
     fs.writeFileSync(todosFilePath, JSON.stringify(data, null, 2), "utf-8");
 };
 
+
 /**
  * create a route handler for POST request
  *
@@ -85,6 +86,7 @@ app.post("/todos/create", (req, res) => {
     // send a response with message "Todo added successfully"
     res.send("Todo added successfully");
 });
+
 
 /**
  * create a route handler for DELETE request
@@ -147,6 +149,7 @@ app.delete("/todos/delete/:id", function (req, res) {
     res.send("Todo deleted successfully with id " + todoId);
 });
 
+
 /**
  * create a route handler for PUT (Update) request
  *
@@ -193,6 +196,7 @@ app.put("/todos/update/:id", function (req, res) {
     // send a response with message "Todo updated successfully with id" and the todo id
     res.send("Todo updated successfully with id " + todoId);
 });
+
 
 /**
  * create a route handler for GET (Read) request
@@ -241,6 +245,7 @@ app.get("/todos/read/:id", function (req, res) {
     // send the todo as response
     res.send(todo);
 });
+
 
 // Start the server on port 3000
 app.listen(3000, () => {
