@@ -129,7 +129,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 04 - Offline Videos](./Week%2004%20-%20Offline%20Videos/)
 
-> **`Topics Covered:`** What and Why is express?, Create HTTP Server using Express, Request Methods(GET, POST, PUT, DELETE) Status Code(200, 404, 500, 411, 403), Create Hospital Game Backend.
+> **`Topics Covered:`** What and Why express?, Create HTTP Server using Express, Request Methods(GET, POST, PUT, DELETE) Status Code(200, 404, 500, 411, 403), Create Hospital Game Backend. What and Why is Middleware? and Solved Some Problems.
 
 - 💻 [**Express and HTTP Server | Postman**](./Week%2004%20-%20Offline%20Videos/1.%20Express%20and%20HTTP%20Server,%20Postman/)
 - 💻 [**Middleware**](./Week%2004%20-%20Offline%20Videos/2.%20Middleware/)
