@@ -127,6 +127,17 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📝 [**Lecture Assignment**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/4.2%20-%20HTTP%20Servers%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Assignment%20Solution/)
 
+## 📚 [Week 04 - Offline Videos](./Week%2004%20-%20Offline%20Videos/)
+
+> **`Topics Covered:`** What and Why is express?, Create HTTP Server using Express, Request Methods(GET, POST, PUT, DELETE) Status Code(200, 404, 500, 411, 403), Create Hospital Game Backend.
+
+- 💻 [**Express and HTTP Server | Postman**](./Week%2004%20-%20Offline%20Videos/1.%20Express%20and%20HTTP%20Server,%20Postman/)
+- 💻 [**Middleware**](./Week%2004%20-%20Offline%20Videos/2.%20Middleware/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20Offline%20Videos/Week%2004%20-%20Offline%20Videos%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2004%20-%20Offline%20Videos/Week%2004%20-%20Offline%20Videos%20Assignment.md)
+- 👨‍💻 [**Assignment Solution**](./Week%2004%20-%20Offline%20Videos/Assignment%20Solution/)
+ 
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
