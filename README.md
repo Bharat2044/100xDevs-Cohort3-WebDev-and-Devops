@@ -137,6 +137,15 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📝 [**Lecture Assignment**](./Week%2004%20-%20Offline%20Videos/Week%2004%20-%20Offline%20Videos%20Assignment.md)
 - 👨‍💻 [**Assignment Solution**](./Week%2004%20-%20Offline%20Videos/Assignment%20Solution/)
  
+## 📚 [Week 05 - HTTP - Headers, Middlewares, File Storage](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/)
+
+### 💻 [**5.1 - HTTP Headers, Middlewares, File Storage**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/)
+> **`Topics Covered:`** Recap Last Week(Domain name/IP, Port, Methods, Plaintext vs JSON vs HTML response, Status Codes, Body, Routes, Express), Headers, Fetch API in the Browser, Query params, Creating our own HTTP Server, Middlewares, Route Specific Middlewares(`express.json / bodyParser.json`, `cors`), Commonly Used Middleware & Solved Some Problems.
+
+- 👨‍💻 [**Lecture Codes**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/Lecture%20Codes/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/5.1%20-%20HTTP%20Headers,%20Middlewares%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/5.1%20-%20HTTP%20Headers,%20Middlewares%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/Assignment%20Solution/)
 
 <br />
 
