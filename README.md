@@ -18,17 +18,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 **📌 `Note:` Click on the arrow sign to expand the each topics in details.**
 
-<html>
-<head>
-<style>
-  summary::marker {
-  display: none;
-}
-</style>
-</head>
-<body>
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
@@ -57,7 +48,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
 
@@ -77,7 +68,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
 
@@ -104,7 +95,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
 
@@ -126,7 +117,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 03 - DOM](./Week%2003%20-%20DOM/)
 
@@ -155,7 +146,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 04 - Node.js and HTTP](./Week%2004%20-%20Node.js%20and%20HTTP/)
 
@@ -182,7 +173,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 04 - Offline Videos](./Week%2004%20-%20Offline%20Videos/)
 
@@ -199,7 +190,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
 
 🔽 [📚 Week 05](./Week%2005/)
 
@@ -224,8 +215,6 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   🖥️ [**Assignment Solution**](./Week%2005/5.2%20-%20Middlewares/Assignment%20Solution/)
 
 </details>
-</body>
-</html>
 
 <br />
 
