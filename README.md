@@ -137,15 +137,15 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📝 [**Lecture Assignment**](./Week%2004%20-%20Offline%20Videos/Week%2004%20-%20Offline%20Videos%20Assignment.md)
 - 👨‍💻 [**Assignment Solution**](./Week%2004%20-%20Offline%20Videos/Assignment%20Solution/)
  
-## 📚 [Week 05 - HTTP - Headers, Middlewares, File Storage](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/)
+## 📚 [Week 05](./Week%2005/)
 
-### 💻 [**5.1 - HTTP Headers, Middlewares, File Storage**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/)
+### 💻 [**5.1 - Headers, Query params and Express**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/)
 > **`Topics Covered:`** Recap Last Week(Domain name/IP, Port, Methods, Plaintext vs JSON vs HTML response, Status Codes, Body, Routes, Express), Headers, Fetch API in the Browser, Axios, Query params, Creating our own HTTP Server using Express.
 
-- 👨‍💻 [**Lecture Codes**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/Lecture%20Codes/)
-- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/5.1%20-%20HTTP%20Headers,%20Middlewares%20Notes.md)
-- 📝 [**Lecture Assignment**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/5.1%20-%20HTTP%20Headers,%20Middlewares%20Assignment.md)
-- 🖥️ [**Assignment Solution**](./Week%2005%20-%20HTTP%20-%20Headers,%20Middlewares,%20File%20Storage/5.1%20-%20HTTP%20Headers,%20Middlewares/Assignment%20Solution/)
+- 👨‍💻 [**Lecture Codes**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/Lecture%20Codes/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/5.1%20-%20Headers,%20Query%20params%20and%20Express%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/5.1%20-%20Headers,%20Query%20params%20and%20Express%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/Assignment%20Solution/)
 
 <br />
 
