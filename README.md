@@ -18,6 +18,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 **📌 `Note:` Click on the arrow sign to expand the each topics in details.**
 
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 01 - Orientation, HTML/CSS/Basic JS</summary>
 
@@ -44,9 +45,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
     -   [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Cohort 2 Warmup Videos</summary>
 
@@ -64,9 +63,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
     -   [Portfolio Returns Calculator Live Link 🚀](https://compound-interest-calculator-psi.vercel.app/)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 02 - Async JS</summary>
 
@@ -91,9 +88,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Assignment%20Solution/)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 02 - Offline Videos</summary>
 
@@ -113,9 +108,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📒[**Cohort 3.0 - GitHub Assignment Repository Link**](https://github.com/100xdevs-cohort-3/assignments)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 03 - DOM</summary>
 
@@ -142,9 +135,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
     -   [Todo App using ReactJS Live Link 🚀](https://todo-list2-bharat.vercel.app/)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 800; cursor: pointer;" title="Click on me to Expand">Week 04 - Node.js and HTTP</summary>
 
@@ -169,9 +160,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   🖥️ [**Assignment Solution**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Assignment%20Solution/)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 04 - Offline Videos
 
@@ -189,9 +178,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   👨‍💻 [**Assignment Solution**](./Week%2004%20-%20Offline%20Videos/Assignment%20Solution/)
 
 </details>
-
-----
-
+-------------------------------------------------------------------------------
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 05</summary>
 
@@ -216,8 +203,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   🖥️ [**Assignment Solution**](./Week%2005/5.2%20-%20Middlewares/Assignment%20Solution/)
 
 </details>
-
-----
+-------------------------------------------------------------------------------
 
 <br />
 
