@@ -19,11 +19,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 **📌 `Note:` Click on the arrow sign to expand the each topics in details.**
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 01 - Orientation, HTML/CSS/Basic JS</summary>
 
-🔽 [📚 Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
-
-</summary>
+## 📚 [ Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
 ### 💻 [**1.1 - Web Dev + Devops Orientation**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/)
 
@@ -48,11 +46,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Cohort 2 Warmup Videos</summary>
 
-🔽 [📚 Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
-
-</summary>
+## 📚 [Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
 
 > **`Topics Covered`: VS Code Installation & HTML Basic -** Tags, Attributes, Heading(h1-h6), div, span, title, body, head, p, img, a, input, button,b, br, center... & **CSS Basic -** Inline CSS, color, id, class, selector, color, background-color, font-size, font-weight, padding, margin, text-align, border, border-radius, box-shadow, float, flexbox & **Build Some Part of Zerodha Landing Page**.
 
@@ -68,11 +64,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 02 - Async JS</summary>
 
-🔽 [📚 Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
-
-</summary>
+## 📚 [Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
 
 ### 💻 [**2.1 - Async JS**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/)
 
@@ -95,11 +89,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 02 - Offline Videos</summary>
 
-🔽 [📚 Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
-
-</summary>
+## 📚 [Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
 
 > **`Topics Covered:`** Node.js Installation, Linux Command Basic and Advanced(cd, pwd, ls, touch, mkdir, rm, mv, cat, cp, chmod, echo, head, tail, |, wc, grep, history), Bash Scripting, Vim Editor, How to solve Assignment, Solve Basic CSS Assignment, VSCode Landing Page, Callback Hell, setTimeout(), async/await, Promisified Version of readFile using async/await and Solved Some Problems
 
@@ -117,11 +109,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 03 - DOM</summary>
 
-🔽 [📚 Week 03 - DOM](./Week%2003%20-%20DOM/)
-
-</summary>
+## 📚 [Week 03 - DOM](./Week%2003%20-%20DOM/)
 
 ### 💻 [**3.1 - DOM Simple**](./Week%2003%20-%20DOM/3.1%20-%20DOM%20Simple/)
 
@@ -146,11 +136,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 800; cursor: pointer;" title="Click on me to Expand">Week 04 - Node.js and HTTP</summary>
 
-🔽 [📚 Week 04 - Node.js and HTTP](./Week%2004%20-%20Node.js%20and%20HTTP/)
-
-</summary>
+## 📚 [Week 04 - Node.js and HTTP](./Week%2004%20-%20Node.js%20and%20HTTP/)
 
 ### 💻 [**4.1 - Node.js, Bun and JS Runtimes**](./Week%2004%20-%20Node.js%20and%20HTTP/4.1%20-%20Node.js,%20Bun%20and%20JS%20Runtimes/)
 
@@ -173,11 +161,12 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 04 - Offline Videos
 
-🔽 [📚 Week 04 - Offline Videos](./Week%2004%20-%20Offline%20Videos/)
 
 </summary>
+
+## 📚 [Week 04 - Offline Videos](./Week%2004%20-%20Offline%20Videos/)
 
 > **`Topics Covered:`** What and Why express?, Create HTTP Server using Express, Request Methods(GET, POST, PUT, DELETE) Status Code(200, 404, 500, 411, 403), Create Hospital Game Backend. What and Why is Middleware? and Solved Some Problems.
 
@@ -190,11 +179,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer; list-style: none;" title="Click on me to Expand">
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 05</summary>
 
-🔽 [📚 Week 05](./Week%2005/)
-
-</summary>
+## 📚 [Week 05](./Week%2005/)
 
 ### 💻 [**5.1 - Headers, Query params and Express**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/)
 
