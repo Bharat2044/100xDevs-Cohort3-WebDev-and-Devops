@@ -18,6 +18,15 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 **📌 `Note:` Click on the arrow sign to expand the each topics in details.**
 
+<html>
+<head>
+<style>
+  summary::marker {
+  display: none;
+}
+</style>
+</head>
+<body>
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">
 
@@ -215,6 +224,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   🖥️ [**Assignment Solution**](./Week%2005/5.2%20-%20Middlewares/Assignment%20Solution/)
 
 </details>
+</body>
+</html>
 
 <br />
 
