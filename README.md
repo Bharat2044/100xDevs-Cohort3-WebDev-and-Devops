@@ -147,6 +147,14 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 - 📝 [**Lecture Assignment**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/5.1%20-%20Headers,%20Query%20params%20and%20Express%20Assignment.md)
 - 🖥️ [**Assignment Solution**](./Week%2005/5.1%20-%20Headers,%20Query%20params%20and%20Express/Assignment%20Solution/)
 
+### 💻 [**5.2 - Middlewares**](./Week%2005/5.2%20-%20Middlewares/)
+> **`Topics Covered:`** 
+
+- 👨‍💻 [**Lecture Codes**](./Week%2005/5.2%20-%20Middlewares/Lecture%20Codes/)
+- 📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2005/5.2%20-%20Middlewares/5.2%20-%20Middlewares%20Notes.md)
+- 📝 [**Lecture Assignment**](./Week%2005/5.2%20-%20Middlewares/5.2%20-%20Middlewares%20Assignment.md)
+- 🖥️ [**Assignment Solution**](./Week%2005/5.2%20-%20Middlewares/Assignment%20Solution/)
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
