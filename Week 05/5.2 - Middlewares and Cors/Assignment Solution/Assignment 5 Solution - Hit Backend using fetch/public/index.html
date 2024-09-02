@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CORS Example</title>
+
+        <!-- Axios Library CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.6/axios.min.js"></script>
+    </head>
+    <body>
+        <h1>Sum Calculator</h1>
+
+        <!-- Input fields to enter the numbers -->
+        <input type="number" id="a" placeholder="Enter First Number" required />
+        <input type="number" id="b" placeholder="Enter Second Number" required />
+
+        <!-- Button to calculate the sum -->
+        <button onclick="calculateSum()">Calculate Sum</button>
+
+        <script>
+            async function calculateSum() {
+                // Fetch the values of the input fields
+                const a = document.getElementById("a").value;
+                const b = document.getElementById("b").value;
+
+                if (!a || !b) {
+                    alert("Please enter both the numbers");
+                    return;
+                }
+                
+                /* 
+                    Make a POST request to the backend server using either axios or fetch API
+                    Uncomment the code based on the library you want to use
+                */
+                /*
+                // Make a POST request to the backend server using axios
+                const response = await axios.post("http://localhost:3001/sum", {
+                    a: a,
+                    b: b,
+                });
+                */
+
+                // Make a POST request to the backend server using fetch API
+                const response = await fetch('http://localhost:3001/sum', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ a, b })
+                });
+
+                // Convert the response to JSON
+                const data = await response.json();
+
+                // Log the response
+                console.log(data);                
+            }
+        </script>
+    </body>
+</html>
