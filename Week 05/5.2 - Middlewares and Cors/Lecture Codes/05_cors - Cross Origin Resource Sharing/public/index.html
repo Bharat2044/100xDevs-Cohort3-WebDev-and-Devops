@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CORS</title>
+
+        <!-- Axios Library -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.6/axios.min.js"></script>
+    </head>
+    <body>
+        <!-- Create two input fields to get the values -->
+        <input id="a" type="text" placeholder="Firat Value" />
+        <input id="b" type="text" placeholder="Second Value" />
+
+        <!-- Create a button to send the request -->
+        <button onclick="sendRequest()">Find Sum</button>
+
+        <script>
+            async function sendRequest() {
+                // Get the values from the input fields
+                const a = document.getElementById("a").value;
+                const b = document.getElementById("b").value;
+
+                // Log the values
+                // console.log(a, b);
+
+                // Send a POST request to the server 
+                const response = await axios.post("http://localhost:3001/sum", {
+                    a: a,
+                    b: b,
+                });
+
+                // Log the response
+                console.log(response.data);
+            }
+        </script>
+    </body>
+</html>
