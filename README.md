@@ -202,6 +202,22 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 06</summary>
+
+## 📚 [Week 06](./Week%2006/)
+
+### 💻 [**6.1 - Auth and JWTs**](./Week%2006/6.1%20-%20Auth%20and%20JWTs/)
+
+> **`Topics Covered:`** What is authentication?, Auth workflow, Create an express app, Tokens and JWT (JSON Web tokens) based authentication, Tokens vs JWTs, Authorization header.
+
+-   👨‍💻 [**Lecture Codes**](./Week%2006/6.1%20-%20Auth%20and%20JWTs/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2006/6.1%20-%20Auth%20and%20JWTs/6.1%20-%20Auth%20and%20JWTs%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2006/6.1%20-%20Auth%20and%20JWTs/6.1%20-%20Auth%20and%20JWTs%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2006/6.1%20-%20Auth%20and%20JWTs/Assignment%20Solution/)
+
+</details>
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
