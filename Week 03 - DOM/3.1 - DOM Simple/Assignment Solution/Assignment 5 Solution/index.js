@@ -4,7 +4,7 @@
 
 // function to delete a todo item 
 function deleteTodo(index) {
-    // get the todo item by index and store it in a variable called todo
+    // get the todo item by index and store it in a variable called element
     const element = document.querySelector(`#todo-${index}`);
 
     // remove the todo item from the DOM
