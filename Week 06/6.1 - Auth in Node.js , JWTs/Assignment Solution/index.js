@@ -20,22 +20,13 @@ app.use(express.json());
 // Create an array to store the users username and password
 const users = [];
 
+// Create a secret key for the jwt token
 const JWT_SECRET = "ilove100xdevsliveclasses";
-
-/*
-[
-    {
-        username: "Bharat",
-        password: "Bharat@123",
-        token: "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6" 
-    }
-]
-*/
 
 // Create a middleware called auth to verify if the user is logged in or not
 function auth(req, res, next) {
     // Get the token from the request headers
-    const token = req.headers.authorization;
+    const token = req.headers.token;
 
     // Check if the token is present or not
     if (!token) {
@@ -54,6 +45,8 @@ function auth(req, res, next) {
                 message: "Unauthorized!",
             });
         }
+
+        // console.log(decoded);        
 
         // Add the user object to the request object
         req.user = decoded;
@@ -115,9 +108,6 @@ app.post("/signin", function (req, res) {
             },
             JWT_SECRET
         );
-
-        // Add the token to the user object
-        user.token = token;
 
         // Send a response to the client with the token
         return res.json({
