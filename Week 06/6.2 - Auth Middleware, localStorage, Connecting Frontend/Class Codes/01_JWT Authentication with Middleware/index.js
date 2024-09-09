@@ -17,18 +17,15 @@ const users = [];
 const JWT_SECRET = "ilove100xdevsliveclasses";
 
 // Create a middleware function to log the request method
-function logger (req, res, next) {
+function logger(req, res, next) {
     // Log the request method to the console
     console.log(`${req.method} request came`);
     // Call the next middleware function
     next();
 }
 
-// Use the logger middleware function
-app.use(logger);
-
 // Create a post request for the signup route
-app.post("/signup", function (req, res) {
+app.post("/signup", logger, function (req, res) {
     // Get the username and password from the request body
     const username = req.body.username;
     const password = req.body.password;
@@ -62,7 +59,7 @@ app.post("/signup", function (req, res) {
 });
 
 // Create a post request for the signin route
-app.post("/signin", function (req, res) {
+app.post("/signin", logger, function (req, res) {
     // Get the username and password from the request body
     const username = req.body.username;
     const password = req.body.password;
@@ -104,22 +101,24 @@ function auth(req, res, next) {
 
     // Check if the token is present or not
     if (!token) {
-        // Send a response to the client that the token is not present
+        // Send a response to the client that the token is missing
         return res.json({
-            message: "Token is not present!",
+            message: "Token is missing!",
         });
     }
 
-    // Verify the token using the jwt.verify() function
-    const decodedData = jwt.verify(token, JWT_SECRET);
+    // Use a try-catch block to handle the error
+    try {
+        // Verify the token using the jwt.verify() function
+        const decodedData = jwt.verify(token, JWT_SECRET);
 
-    // Check if the username is present in the decoded data or not
-    if (decodedData.username) {
         // Set the username in the request object
         req.username = decodedData.username;
+
         // Call the next middleware function
-        next();        
-    } else {
+        next();
+    } catch (error) {
+        // Send a response to the client that the token is invalid
         return res.json({
             message: "Invalid token!",
         });
@@ -127,10 +126,12 @@ function auth(req, res, next) {
 }
 
 // Create a get request for the me route
-app.get("/me", auth, function (req, res) {
-   
+app.get("/me", logger, auth, function (req, res) {
+    // Get the current user from the request object
+    const currentUser = req.username;
+
     // Find the user in the users array with the given username
-    const foundUser = users.find((user) => user.username === req.username);
+    const foundUser = users.find((user) => user.username === currentUser);
 
     // Check if the user is found or not
     if (foundUser) {
@@ -140,9 +141,9 @@ app.get("/me", auth, function (req, res) {
             password: foundUser.password,
         });
     } else {
-        // Send a response to the client that the token is invalid
+        // Send a response to the client that the user is not found
         return res.json({
-            message: "Invalid token!",
+            message: "User not found!",
         });
     }
 });
