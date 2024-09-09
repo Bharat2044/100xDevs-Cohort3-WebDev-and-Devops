@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Auth Website</title>
+
+        <!-- adding axios CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.7/axios.min.js"></script>
+    </head>
+    <body>
+        <div>
+            <span>Signup</span>
+            <input type="text" name="username" id="signup-username" placeholder="Username" />
+            <input type="password" name="password" id="signup-password" placeholder="Password" />
+            <button onclick="signup()">Submit</button>
+        </div>
+
+        <div>
+            <span>Signin</span>
+            <input type="text" name="username" id="signin-username" placeholder="Username" />
+            <input type="password" name="password" id="signin-password" placeholder="Password" />
+            <button onclick="signin()">Submit</button>
+        </div>
+
+        <div>
+            <span>User Information:</span>
+            <div id="information"></div>
+        </div>
+
+        <div>
+            <button onclick="logout()">Logout</button>
+        </div>
+
+        <script>
+            // create a function to signup the user with the given username and password
+            async function signup() {
+                // getting the username and password from the input fields
+                const username = document.getElementById("signup-username").value;
+                const password = document.getElementById("signup-password").value;
+
+                // making a POST request to the backend to signup the user with the given username and password
+                await axios.post("http://localhost:3000/signup", {
+                    username,
+                    password,
+                });
+
+                // alert the user that they are signed up
+                alert("You are signed up!");
+            }
+
+            // create a function to signin the user with the given username and password
+            async function signin() {
+                // getting the username and password from the input fields
+                const username = document.getElementById("signin-username").value;
+                const password = document.getElementById("signin-password").value;
+
+                // making a POST request to the backend to signin the user with the given username and password
+                const response = await axios.post("http://localhost:3000/signin", {
+                    username,
+                    password,
+                });
+
+                // getting the token from the response
+                const token = response.data.token;
+
+                // storing the token in the local storage
+                localStorage.setItem("token", token);
+
+                // alert the user that they are signed in
+                alert("You are signed in!");
+
+                // redirecting the user to the home page
+                getUserInformation();
+            }
+
+            // create a function to get the user information
+            async function getUserInformation() {
+                const response = await axios.get("http://localhost:3000/me", {
+                    headers: {
+                        token: localStorage.getItem("token"),
+                    },
+                });
+
+                // displaying the user information on the frontend
+                document.getElementById("information").innerText = `Username: ${response.data.username} and Password: ${response.data.password}`;
+            }
+
+            // call the getUserInformation function
+            getUserInformation();
+        </script>
+    </body>
+</html>
