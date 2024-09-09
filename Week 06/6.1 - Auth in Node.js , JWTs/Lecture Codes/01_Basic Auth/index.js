@@ -82,20 +82,20 @@ app.post("/signin", function(req, res) {
     const password = req.body.password;
 
     // Find the user in the users array with the given username and password 
-    const user = users.find(user => user.username === username && user.password === password);
+    const foundUser = users.find(user => user.username === username && user.password === password);
 
     // Check if the user is found or not
-    if (user) {
+    if (foundUser) {
         // Generate a token for the user
         const token = generateToken();
 
         // Add the token to the user object
-        user.token = token;
+        foundUser.token = token;
 
         // Send a response to the client with the token
         return res.json({
+            token: token,
             message: "You have signed in successfully!",
-            token: token
         });
     } else {
         // Send a response to the client that the user is not found
@@ -108,17 +108,24 @@ app.post("/signin", function(req, res) {
 // Create a get request for the me route
 app.get("/me", function(req, res) {
     // Get the token from the request headers
-    const token = req.headers.authorization;
+    const token = req.headers.token;
+
+    // Check if the token is present or not
+    if (!token) {
+        return res.json({
+            message: "Token is missing!"
+        });
+    }
 
     // Find the user in the users array with the given token
-    const user = users.find(user => user.token === token);
+    const foundUser = users.find(user => user.token === token);
 
     // Check if the user is found or not 
-    if (user) {
+    if (foundUser) {
         // Send a response to the client with the username and password of the user
         return res.json({
-            username: user.username,
-            password: user.password
+            username: foundUser.username,
+            password: foundUser.password
         });
     } else {
         // Send a response to the client that the token is invalid

@@ -13,17 +13,8 @@ app.use(express.json());
 // Create an array to store the users username and password
 const users = [];
 
+// Create a secret key for the jwt token
 const JWT_SECRET = "ilove100xdevsliveclasses";
-
-/*
-[
-    {
-        username: "Bharat",
-        password: "Bharat@123",
-        token: "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6" 
-    }
-]
-*/
 
 // Create a post request for the signup route
 app.post("/signup", function (req, res) {
@@ -66,25 +57,22 @@ app.post("/signin", function (req, res) {
     const password = req.body.password;
 
     // Find the user in the users array with the given username and password
-    const user = users.find((user) => user.username === username && user.password === password);
+    const foundUser = users.find((user) => user.username === username && user.password === password);
 
     // Check if the user is found or not
-    if (user) {
+    if (foundUser) {
         // Create a token using the jwt.sign() function
         const token = jwt.sign(
             {
-                username: user.username,
+                username: foundUser.username,
             },
             JWT_SECRET
         );
 
-        // Add the token to the user object
-        user.token = token;
-
         // Send a response to the client with the token
         return res.json({
-            message: "You have signed in successfully!",
             token: token,
+            message: "You have signed in successfully!",
         });
     } else {
         // Send a response to the client that the user is not found
@@ -97,20 +85,31 @@ app.post("/signin", function (req, res) {
 // Create a get request for the me route
 app.get("/me", function (req, res) {
     // Get the token from the request headers
-    const token = req.headers.authorization;
+    const token = req.headers.token;
+
+    // Check if the token is present or not
+    if (!token) {
+        // Send a response to the client that the token is not present
+        return res.json({
+            message: "Token is not present!",
+        });
+    }
+
+    // Decode the token using the jwt.decode() function
+    // const decoded = jwt.decode(token);
 
     // Verify the token using the jwt.verify() function
     const userDetails = jwt.verify(token, JWT_SECRET);
 
     // Find the user in the users array with the given username
-    const user = users.find((user) => user.username === userDetails.username);
+    const foundUser = users.find((user) => user.username === userDetails.username);
 
     // Check if the user is found or not
-    if (user) {
+    if (foundUser) {
         // Send a response to the client with the username and password of the user
         return res.json({
-            username: user.username,
-            password: user.password,
+            username: foundUser.username,
+            password: foundUser.password,
         });
     } else {
         // Send a response to the client that the token is invalid
