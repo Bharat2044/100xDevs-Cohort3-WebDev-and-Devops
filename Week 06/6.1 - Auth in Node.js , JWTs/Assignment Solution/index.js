@@ -23,39 +23,6 @@ const users = [];
 // Create a secret key for the jwt token
 const JWT_SECRET = "ilove100xdevsliveclasses";
 
-// Create a middleware called auth to verify if the user is logged in or not
-function auth(req, res, next) {
-    // Get the token from the request headers
-    const token = req.headers.token;
-
-    // Check if the token is present or not
-    if (!token) {
-        // Send a response to the client that the token is missing
-        return res.json({
-            message: "Token is missing!",
-        });
-    } 
-
-    // Verify the token using the jwt.verify() function
-    jwt.verify(token, JWT_SECRET, function (err, decoded) {
-        // Check if the token is valid or not
-        if (err) {
-            // Send a response to the client that the token is invalid
-            return res.json({
-                message: "Unauthorized!",
-            });
-        }
-
-        // console.log(decoded);        
-
-        // Add the user object to the request object
-        req.user = decoded;
-
-        // Call the next middleware only if the token is valid
-        next();
-    });
-}
-
 // Create a post request for the signup route
 app.post("/signup", function (req, res) {
     // Get the username and password from the request body
@@ -121,6 +88,39 @@ app.post("/signin", function (req, res) {
         });
     }
 });
+
+// Create a middleware called auth to verify if the user is logged in or not
+function auth(req, res, next) {
+    // Get the token from the request headers
+    const token = req.headers.authorization;
+
+    // Check if the token is present or not
+    if (!token) {
+        // Send a response to the client that the token is missing
+        return res.json({
+            message: "Token is missing!",
+        });
+    } 
+
+    // Verify the token using the jwt.verify() function
+    jwt.verify(token, JWT_SECRET, function (err, decoded) {
+        // Check if the token is valid or not
+        if (err) {
+            // Send a response to the client that the token is invalid
+            return res.json({
+                message: "Unauthorized!",
+            });
+        }
+
+        // console.log(decoded);        
+
+        // Add the user object to the request object
+        req.user = decoded;
+
+        // Call the next middleware only if the token is valid
+        next();
+    });
+}
 
 // Create a get request for the me route
 app.get("/me", auth, function (req, res) {
