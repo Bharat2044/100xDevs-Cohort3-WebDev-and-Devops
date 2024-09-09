@@ -85,13 +85,13 @@ app.post("/signin", function (req, res) {
 // Create a get request for the me route
 app.get("/me", function (req, res) {
     // Get the token from the request headers
-    const token = req.headers.token;
+    const token = req.headers.authorization;
 
     // Check if the token is present or not
     if (!token) {
-        // Send a response to the client that the token is not present
+        // Send a response to the client that the token is missing
         return res.json({
-            message: "Token is not present!",
+            message: "Token is missing!",
         });
     }
 
