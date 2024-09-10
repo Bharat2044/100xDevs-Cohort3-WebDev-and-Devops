@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Auth Website</title>
+        <!-- Adding Axios CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.7/axios.min.js"></script>
+    </head>
+    <body>
+        <div>
+            <span>Signup</span>
+            <input type="text" id="signup-username" placeholder="Username" required />
+            <input type="password" id="signup-password" placeholder="Password" required />
+            <button onclick="signup()">Submit</button>
+        </div>
+
+        <div>
+            <span>Signin</span>
+            <input type="text" id="signin-username" placeholder="Username" />
+            <input type="password" id="signin-password" placeholder="Password" />
+            <button onclick="signin()">Submit</button>
+        </div>
+
+        <div>
+            <span>User Information:</span>
+            <div id="information"></div>
+        </div>
+
+        <div>
+            <button onclick="logout()">Logout</button>
+        </div>
+
+        <script>
+            // Function to signup the user
+            async function signup() {
+                // Get the username and password values from the input fields
+                const username = document.getElementById("signup-username").value;
+                const password = document.getElementById("signup-password").value;
+
+                try {
+                    // Send a POST request to the signup endpoint with the username and password
+                    const response = await axios.post("http://localhost:3000/signup", {
+                        username,
+                        password,
+                    });
+                    
+                    // Alert the user with the response message from the server
+                    alert(response.data.message);
+                } catch (error) {
+                    // Log any errors that occur during the signup process
+                    console.error("Error while signing up:", error);
+                }
+            }
+
+            // Function to signin the user
+            async function signin() {
+                // Get the username and password values from the input fields
+                const username = document.getElementById("signin-username").value;
+                const password = document.getElementById("signin-password").value;
+
+                try {
+                    // Send a POST request to the signin endpoint with the username and password
+                    const response = await axios.post("http://localhost:3000/signin", {
+                        username,
+                        password,
+                    });
+
+                    // Check if the response contains a token
+                    if (response.data.token) {
+                        // Store the token in local storage for future authenticated requests
+                        localStorage.setItem("token", response.data.token);
+                        
+                        // Alert the user with the response message from the server
+                        alert(response.data.message);
+
+                        // Fetch user information after successful sign-in
+                        getUserInformation();
+                    } else {
+                        // Alert the user if no token is received (e.g., sign-in failed)
+                        alert(response.data.message);
+                    }
+                } catch (error) {
+                    // Log any errors that occur during the signin process
+                    console.error("Error while signing in:", error);
+                }
+            }
+
+            // Function to get the user's information
+            async function getUserInformation() {
+                try {
+                    // Send a GET request to the /me endpoint with the authorization token from local storage
+                    const response = await axios.get("http://localhost:3000/me", {
+                        headers: {
+                            // Include the token in the request headers for authentication
+                            Authorization: localStorage.getItem("token"),
+                        },
+                    });
+
+                    // Get the div element where user information will be displayed
+                    const infoDiv = document.getElementById("information");
+
+                    // Check if the response contains the user's username
+                    if (response.data.username) {
+                        // Display the user's username and password in the information div
+                        infoDiv.innerText = `Username: ${response.data.username} and Password: ${response.data.password}`;
+                    } else {
+                        // Display the response message if no user data is found
+                        infoDiv.innerText = response.data.message;
+                    }
+                } catch (error) {
+                    // Log any errors that occur during the process of fetching user information
+                    console.error("Error while fetching user information:", error);
+                }
+            }
+
+            // Function to logout the user
+            function logout() {
+                // Remove the authentication token from local storage
+                localStorage.removeItem("token");
+
+                // Alert the user that they have logged out
+                alert("You have logged out!");
+                
+                // Clear the user information displayed on the page
+                document.getElementById("information").innerText = "";
+            }
+        </script>
+    </body>
+</html>
