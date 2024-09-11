@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Todo App</title>
+
+        <!-- Linking CSS File -->
+        <link rel="stylesheet" href="styles.css" />
+
+        <!-- Adding Axios CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.7/axios.min.js"></script>
+    </head>
+    <body>
+        <!-- Sign-Up Container -->
+        <div id="signup-container" style="display: none">
+            <h2>Sign Up</h2>
+            <input type="text" id="signup-username" placeholder="Username" required />
+            <input type="password" id="signup-password" placeholder="Password" required />
+            <button onclick="signup()">Register</button>
+
+            <button onclick="moveToSignin()">Already have an account? Sign In</button>
+        </div>
+
+        <!-- Sign-In Container -->
+        <div id="signin-container" style="display: block">
+            <h2>Sign In</h2>
+            <input type="text" id="signin-username" placeholder="Username" required />
+            <input type="password" id="signin-password" placeholder="Password" required />
+            <button onclick="signin()">Login</button>
+
+            <button onclick="moveToSignup()">Don't have an account? Sign Up</button>
+        </div>
+
+        <!-- To-Do List Container -->
+        <div id="todos-container" style="display: none">
+            <div>
+                <h1>To-Do List</h1>
+                <button id="logout-btn" onclick="logout()">Logout</button>
+            </div>
+
+            <div class="todos-input-container">
+                <input type="text" id="input" placeholder="Add a new task..." />
+                <button onclick="addTodo()">Add</button>
+            </div>
+
+            <div id="todos-list"></div>
+        </div>
+
+        <!-- Linking JS File -->
+        <script src="script.js"></script>
+    </body>
+</html>
