@@ -203,6 +203,24 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 05 - Offline Videos
+
+</summary>
+
+## 📚 [Week 05 - Offline Videos](./Week%2005%20-%20Offline%20Videos/)
+
+> **`Topics Covered:`** Git & GitHub in details, Arrow Functions, map(), reduce(), fetch API, Axios Library, GET, POST, PUT, DELETE request and solved som problems.
+
+-   💻 [**Git and Github**](./Week%2005%20-%20Offline%20Videos/1.%20Git%20and%20Github/)
+-   💻 [**Map, Filter and Arrow fns**](./Week%2005%20-%20Offline%20Videos/2.%20Map,%20Filter%20and%20Arrow%20fns/)
+-   💻 [**Axios vs Fetch**](./Week%2005%20-%20Offline%20Videos/3.%20Axios%20vs%20Fetch/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2005%20-%20Offline%20Videos/Week%2005%20-%20Offline%20Videos%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2005%20-%20Offline%20Videos/Week%2005%20-%20Offline%20Videos%20Assignment.md)
+-   👨‍💻 [**Assignment Solution**](./Week%2005%20-%20Offline%20Videos/Assignment%20Solution/)
+
+</details>
+
+<details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 06</summary>
 
 ## 📚 [Week 06](./Week%2006/)
