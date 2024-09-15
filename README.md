@@ -246,18 +246,28 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 07</summary>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 07 - MongoDB</summary>
 
-## 📚 [Week 07](./Week%2007/)
+## 📚 [Week 07 - MongoDB](./Week%2007%20-%20MongoDB/)
 
-### 💻 [**7.1 - Intro to Databases, MongoDb and Mongoose**](./Week%2007/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose/)
+### 💻 [**7.1 - MongoDB**](./Week%2007%20-%20MongoDB/7.1%20-%20MongoDB/)
 
 > **`Topics Covered:`** What is authentication?, Auth workflow, Create an express app, Tokens and JWT (JSON Web tokens) based authentication, Tokens vs JWTs, Authorization header.
 
--   👨‍💻 [**Lecture Codes**](./Week%2007/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2007/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2007/7.1%20-%20Intro%20to%20Databases,%20MongoDb%20and%20Mongoose/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2007%20-%20MongoDB/7.1%20-%20MongoDB/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.1%20-%20MongoDB/7.1%20-%20MongoDB%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2007%20-%20MongoDB/7.1%20-%20MongoDB/7.1%20-%20MongoDB%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2007%20-%20MongoDB/7.1%20-%20MongoDB/Assignment%20Solution/)
+
+### 💻 [**7.2 - MongoDB Continuation**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/)
+
+> **`Topics Covered:`** 
+
+-   👨‍💻 [**Lecture Codes**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/7.2%20-%20MongoDB%20Continuation%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/7.2%20-%20MongoDB%20Continuation%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/Assignment%20Solution/)
+
 </details>
 
 <br />
