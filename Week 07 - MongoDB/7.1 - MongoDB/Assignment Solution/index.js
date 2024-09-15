@@ -20,6 +20,7 @@ const JWT_SECRET = "hellobacchomajaloclasska";
 
 // Create a POST route for the signup endpoint
 app.post("/signup", async function (req, res) {
+    // Get the email, password, and name from the request body
     const { email, password, name } = req.body;
 
     try {
@@ -36,6 +37,7 @@ app.post("/signup", async function (req, res) {
 
 // Create a POST route for the signin endpoint
 app.post("/signin", async function (req, res) {
+    // Get the email and password from the request body
     const { email, password } = req.body;
 
     try {
@@ -60,26 +62,36 @@ app.post("/signin", async function (req, res) {
 
 // Create an auth middleware function to authenticate the user
 function auth(req, res, next) {
+    // Get the token from the Authorization header
     const token = req.headers.authorization;
 
     try {
-        // Verify the token
+        // Verify the token using the jwt.verify() method
         const decodedData = jwt.verify(token, JWT_SECRET);
 
+        // If the token is valid 
         if (decodedData) {
+            // Set the userId in the request object
             req.userId = decodedData.id;
+
+            // Call the next middleware
             next();
         } else {
+            // If the token is invalid, send an error message
             res.status(403).json({ message: "Invalid Token!" });
         }
     } catch (error) {
+        // Catch any errors in token verification
         res.status(403).json({ message: "Invalid Token!" });
     }
 }
 
 // Create a POST route for the todo endpoint
 app.post("/todo", auth, async function (req, res) {
+    // Get the title and done values from the request body
     const { title, done } = req.body;
+
+    // Get the userId from the request object
     const userId = req.userId;
 
     try {
@@ -87,7 +99,7 @@ app.post("/todo", auth, async function (req, res) {
         await TodoModel.create({ userId, title, done });
 
         // Send a success response
-        res.json({ message: "Todo created" });
+        res.status(201).json({ message: "Todo created!" });
     } catch (error) {
         // Handle potential errors in todo creation
         res.status(500).json({ message: "Error creating todo" });
@@ -96,14 +108,21 @@ app.post("/todo", auth, async function (req, res) {
 
 // Create a GET route for the todo endpoint
 app.get("/todo", auth, async function (req, res) {
+    // Get the userId from the request object
     const userId = req.userId;
 
     try {
         // Find all the todos for the authenticated user
         const todos = await TodoModel.find({ userId });
 
-        // Send the todos to the client
-        res.json({ todos });
+        // If todos are found
+        if (todos) {
+            // Send the todos to the client
+            res.status(200).json(todos);
+        } else {
+            // If no todos are found, send an error message
+            res.json({ message: "No todos found" });
+        }
     } catch (error) {
         // Handle potential errors in fetching todos
         res.status(500).json({ message: "Error fetching todos" });
