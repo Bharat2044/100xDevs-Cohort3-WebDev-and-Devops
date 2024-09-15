@@ -1,8 +1,9 @@
-// Import the express, mongoose, jwt and bcrypt modules
+// Import the express, mongoose, jwt, bcrypt and zod modules
 const express = require("express");
 const mongoose = require("mongoose");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
+const { z } = require("zod");
 
 // Import the UserModel and TodoModel from the db.js file
 const { UserModel, TodoModel } = require("./db");
@@ -21,6 +22,24 @@ mongoose.connect("mongodb+srv://100xdevs:WvaTca0509mb90YX@cluster0.ossjd.mongodb
 
 // Create a POST route for the signup endpoint
 app.post("/signup", async function (req, res) {
+    // Input Validation using Zod
+    const requireBody = z.object({
+        email: z.string().min(3).max(100).email(), // email is must be a string, min 3 characters, max 100 characters, and must be a valid email
+        password: z.string().min(3).max(100), // password is must be a string, min 3 characters, max 100 characters
+        name: z.string().min(3).max(100), // name is must be a string, min 3 characters, max 100 characters
+    });
+
+    // Parse the request body using the requireBody.safeParse() method to validate the data format
+    const parseDataWithSuccess = requireBody.safeParse(req.body);
+
+    // If the data format is incorrect, send an error message to the client
+    if (!parseDataWithSuccess.success) {
+        return res.json({
+            message: "Incorrect data format",
+            error: parseDataWithSuccess.error,
+        });
+    }
+
     // Get the email, password, and name from the request body
     const email = req.body.email;
     const password = req.body.password;
@@ -29,7 +48,7 @@ app.post("/signup", async function (req, res) {
     // Hash the password using the bcrypt.hash() method
     const hashedPassword = await bcrypt.hash(password, 5);
     // console.log(hashedPassword);
-    
+
     // Error handling for creating a new user
     try {
         // Create a new user using the UserModel.create() method
@@ -70,7 +89,7 @@ app.post("/signin", async function (req, res) {
     }
 
     // Compare the password with the hashed password using the bcrypt.compare() method
-    const passwordMatch = await bcrypt.compare(password, user.password);   
+    const passwordMatch = await bcrypt.compare(password, user.password);
 
     // If the user password matches
     if (passwordMatch) {
