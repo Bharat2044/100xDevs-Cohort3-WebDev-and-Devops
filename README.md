@@ -261,7 +261,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ### 💻 [**7.2 - MongoDB Continuation**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/)
 
-> **`Topics Covered:`** 
+> **`Topics Covered:`** Recap of Week 7.1, What is Hashing and Why?, Salting, bcrypt algorithm, Error Handling using try-catch, Input Validation using Zod, ans solved signin and signup endpoints.
 
 -   👨‍💻 [**Lecture Codes**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.2%20-%20MongoDB%20Continuation/7.2%20-%20MongoDB%20Continuation%20Notes.md)
