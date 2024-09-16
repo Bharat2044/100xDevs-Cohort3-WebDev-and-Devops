@@ -14,7 +14,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 # 👨‍💻 **Contents** 👀
 
-**This repository contains a `Collection of Codes, Lecture Assignments, Assignments Solutions, Notes\Slides Link and Some good videos & Articles/Llogs` link and also all topics name which covered in class. If you are 100xDevs Cohort3 Student this will defenitely help you.**
+**This repository contains a `Collection of Codes, Lecture Assignments, Assignments Solutions, Notes\Slides Link and Some good videos & Articles/Blogs link` and also all topics name which covered in class. If you are 100xDevs Cohort3 Student this will defenitely help you.**
 
 **📌 `Note:` Click on the arrow sign to expand to see each topics in details with link.**
 
@@ -203,9 +203,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 05 - Offline Videos
-
-</summary>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 05 - Offline Videos</summary>
 
 ## 📚 [Week 05 - Offline Videos](./Week%2005%20-%20Offline%20Videos/)
 
@@ -242,6 +240,21 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/Assignment%20Solution/)
+
+</details>
+
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 06 - Offline Videos</summary>
+
+## 📚 [Week 06 - Offline Videos](./Week%2006%20-%20Offline%20Videos/)
+
+> **`Topics Covered:`** JWT, Auth, tokens, sign(), decode(), verify() method Error Handling using try/catch block, Input Validation using Zod, MongoDB Installation and Solved Some Problems.
+
+-   💻 [**JWT and Auth Recap**](./Week%2006%20-%20Offline%20Videos/1.%20JWT%20and%20Auth%20Recap/)
+-   💻 [**Mongo Installation**](./Week%2006%20-%20Offline%20Videos/2.%20Mongo%20Installation/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2006%20-%20Offline%20Videos/Week%2006%20-%20Offline%20Videos%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2006%20-%20Offline%20Videos/Week%2006%20-%20Offline%20Videos%20Assignment.md)
+-   👨‍💻 [**Assignment Solution**](./Week%2006%20-%20Offline%20Videos/Assignment%20Solution/)
 
 </details>
 
