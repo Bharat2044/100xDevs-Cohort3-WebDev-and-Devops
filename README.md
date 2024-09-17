@@ -277,8 +277,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 > **`Topics Covered:`** Recap of Week 7.1, What is Hashing and Why?, Salting, bcrypt algorithm, Error Handling using try-catch, Input Validation using Zod, ans solved signin and signup endpoints.
 
 -   👨‍💻 [**Lecture Codes**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Assignment.md)
--   📝 [**Lecture Assignment**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Notes.md)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/Assignment%20Solution/)
 
 </details>
