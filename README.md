@@ -1,8 +1,8 @@
-# **`100xDevs (Harkirat) Cohort 3.0 Web Dev + Devops 🚀`**
+# **`100xDevs (Harkirat) Cohort 3.0 Web Dev + Devops🚀`**
 
 > ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains lecture codes, lecture assignments, assignment solutions, links to notes/slides link, relevant articles/blogs link for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._
 
-## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3)
+<!-- ## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3) -->
 
 # 🔥 **Clone this Repository** 💫
 
@@ -280,6 +280,22 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/Assignment%20Solution/)
+
+</details>
+
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 08</summary>
+
+## 📚 [Week 08](./Week%2008/)
+
+### 💻 [**8.1 - Building an end to end full stack app using DOM, Express, Mongo**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/)
+
+> **`Topics Covered:`** 
+
+-   👨‍💻 [**Lecture Codes**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/Assignment%20Solution/)
 
 </details>
 
