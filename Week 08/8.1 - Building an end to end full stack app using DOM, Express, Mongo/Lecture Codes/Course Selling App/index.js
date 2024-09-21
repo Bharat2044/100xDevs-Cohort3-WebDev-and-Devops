@@ -16,43 +16,41 @@ const express = require("express");
 const jwt = require("jsonwebtoken");
 const mongoose = require("mongoose");
 
+// Import the userRouter, courseRouter, adminRouter from the routes folder
+const { userRouter } = require("./routes/user");
+const { courseRouter } = require("./routes/course");
+const { adminRouter } = require("./routes/admin");
+
 // Initialize express app
 const app = express();
 
-app.post("/user/signup", function (req, res) {
-    
-    res.json({
-        message: "Signup endpoint!"
-    });
-});
+// use the routes in the app object
+app.use("/api/v1/user", userRouter);
+app.use("/api/v1/admin", adminRouter);
+app.use("/api/v1/course", courseRouter);
 
-app.post("/user/signin", function (req, res) {
-    
-    res.json({
-        message: "Signin endpoint!"
-    });
-});
+/*
+// create user routes and course routes using the functions
+createUserRoutes();
+createCourseRoutes();
+*/
 
-app.get("/user/purchases", function (req, res) {
-    
-    res.json({
-        message: "Purchases endpoint!"
-    });
-});
+// Create a main function to connect to the database and start the server
+async function main() {
+    // Use the connect method to connect to the database and log a success message if the connection is successful
+    const connection = await mongoose.connect("mongodb+srv://100xdevs:WvaTca0509mb90YX@cluster0.ossjd.mongodb.net/coursera-app");
 
-app.get("/course/purchases", function (req, res) {
-    // you would expect the user to pay money to purchase a course
+    if (connection) {
+        console.log("Connected to the database");
+    } else {
+        console.log("Failed to connect to the database");
+    }
     
-    res.json({
-        message: "Purchases endpoint!"
+    // Start the server on port 3000
+    app.listen(3000, () => {
+        console.log("Server is listening on port 3000");
     });
-});
+}
 
-app.get("/courses", function (req, res) {
-    
-    res.json({
-        message: "Pourses endpoint!"
-    });
-});
-
-app.listen(3000);
+// Call the main function
+main();
