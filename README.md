@@ -1,10 +1,10 @@
-# **`100xDevs (Harkirat) Cohort 3.0 Web Dev + Devops🚀`**
+## **`100xDevs (Harkirat) Cohort 3.0 Web Dev + Devops🚀`**
 
-> ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains lecture codes, lecture assignments, assignment solutions, links to notes/slides link, relevant articles/blogs link for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._
+> #### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains lecture codes, lecture assignments, assignment solutions, links to notes/slides link, relevant articles/blogs link for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._
 
 <!-- ## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3) -->
 
-# 🔥 **Clone this Repository** 💫
+## 🔥 **Clone this Repository** 💫
 
 Write the following commands on your terminal to clone this repository, so that you can run this project locally.
 
@@ -12,7 +12,7 @@ Write the following commands on your terminal to clone this repository, so that 
 git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ```
 
-# 👨‍💻 **Contents** 👀
+## 👨‍💻 **Contents** 👀
 
 **This repository contains a `Collection of Codes, Lecture Assignments, Assignments Solutions, Notes\Slides Link and Some good videos & Articles/Blogs link` and also all topics name which covered in class. If you are 100xDevs Cohort3 Student this will defenitely help you.**
 
@@ -301,7 +301,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 <br />
 
-# 🔗 **Let's Connect** 🤝
+## 🔗 **Let's Connect** 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
