@@ -284,18 +284,18 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 08</summary>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 08 - Course Selling App</summary>
 
-## 📚 [Week 08](./Week%2008/)
+## 📚 [Week 08 - Course Selling App](./Week%2008%20-%20Course%20Selling%20App/)
 
-### 💻 [**8.1 - Building an end to end full stack app using DOM, Express, Mongo**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/)
+### 💻 [**8.1 - Backend of Course Selling App**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/)
 
-> **`Topics Covered:`** 
+> **`Topics Covered:`** Created some backend of `Course Selling App`, project file structure & explore `p5.js-web-editor` github repository.
 
--   👨‍💻 [**Lecture Codes**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2008/8.1%20-%20Building%20an%20end%20to%20end%20full%20stack%20app%20using%20DOM,%20Express,%20Mongo/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/Assignment%20Solution/)
 
 </details>
 
