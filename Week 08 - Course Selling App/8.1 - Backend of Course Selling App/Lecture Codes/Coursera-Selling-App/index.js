@@ -11,9 +11,8 @@ Create a course selling app
     - Complete the routes for user login, signup, purchase a course, see course
 */
 
-// Import express, jsonwebtoken, mongoose modules
+// Import express, and mongoose modules
 const express = require("express");
-const jwt = require("jsonwebtoken");
 const mongoose = require("mongoose");
 
 // Import the userRouter, courseRouter, adminRouter from the routes folder
@@ -40,9 +39,10 @@ async function main() {
     // Use the connect method to connect to the database and log a success message if the connection is successful
     const connection = await mongoose.connect("mongodb+srv://100xdevs:WvaTca0509mb90YX@cluster0.ossjd.mongodb.net/coursera-app");
 
-    if (connection) {
+    // Check if the connection is successful or not
+    if (connection) { // If the connection is successful
         console.log("Connected to the database");
-    } else {
+    } else { // If the connection is not successful
         console.log("Failed to connect to the database");
     }
     
