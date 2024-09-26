@@ -290,12 +290,21 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ### 💻 [**8.1 - Backend of Course Selling App**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/)
 
-> **`Topics Covered:`** Created some backend of `Course Selling App`, project file structure & explore `p5.js-web-editor` github repository.
+> **`Topics Covered:`** Created some backend of a `Course Selling App`, project file structure & explore `p5.js-web-editor` github repository.
 
 -   👨‍💻 [**Lecture Codes**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/Assignment%20Solution/)
+
+### 💻 [**8.2 - Backend of Course Selling App - Part 2**](./Week%2008%20-%20Course%20Selling%20App/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202/)
+
+> **`Topics Covered:`** Created complete backend of a `Course Selling App`.
+
+-   👨‍💻 [**Lecture Codes**](./Week%2008%20-%20Course%20Selling%20App/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2008%20-%20Course%20Selling%20App/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2008%20-%20Course%20Selling%20App/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2008%20-%20Course%20Selling%20App/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202/Assignment%20Solution/)
 
 </details>
 
