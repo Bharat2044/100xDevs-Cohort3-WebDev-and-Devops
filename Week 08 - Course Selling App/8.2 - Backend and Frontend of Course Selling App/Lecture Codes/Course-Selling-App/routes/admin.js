@@ -128,8 +128,10 @@ adminRouter.post("/signin", async function (req, res) {
 
 // Define the admin routes for creating a course
 adminRouter.post("/course", adminMiddleware, async function (req, res) {
+    // Get the adminId from the request object
     const adminId = req.adminId;
 
+    // Validate the request body data using zod schema (title, description, imageUrl, price must be valid)
     const requireBody = zod.object({
         title: zod.string().min(3),
         description: zod.string().min(10),
@@ -137,6 +139,7 @@ adminRouter.post("/course", adminMiddleware, async function (req, res) {
         price: zod.number().positive(),
     });
 
+    // Parse and validate the request body data
     const parseDataWithSuccess = requireBody.safeParse(req.body);
 
     // If the data format is incorrect, send an error message to the client
@@ -147,8 +150,10 @@ adminRouter.post("/course", adminMiddleware, async function (req, res) {
         });
     }
 
+    // Get title, description, imageUrl, and price from the request body
     const { title, description, imageUrl, price } = req.body;
 
+    // Create a new course with the given title, description, imageUrl, price, and creatorId
     const course = await courseModel.create({
         title,
         description,
@@ -157,23 +162,28 @@ adminRouter.post("/course", adminMiddleware, async function (req, res) {
         creatorId: adminId,
     });
 
-    res.json({
+    // Respond with a success message if the course is created successfully
+    res.status(201).json({
         message: "Course created!",
-        creatorId: course._id,
+        courseId: course._id,
     });
 });
 
 // Define the admin routes for updating a course
 adminRouter.put("/course", adminMiddleware, async function (req, res) {
+    // Get the adminId from the request object
     const adminId = req.adminId;
 
+    // Validate the request body data using zod schema (title, description, imageUrl, price, courseId must be valid)
     const requireBody = zod.object({
         title: zod.string().min(3),
-        description: zod.string().min(10),
-        imageUrl: zod.string().url(),
+        description: zod.string().min(5),
+        imageUrl: zod.string().url().min(5),
         price: zod.number().positive(),
+        courseId: zod.string().min(5),
     });
 
+    // Parse and validate the request body data
     const parseDataWithSuccess = requireBody.safeParse(req.body);
 
     // If the data format is incorrect, send an error message to the client
@@ -184,14 +194,27 @@ adminRouter.put("/course", adminMiddleware, async function (req, res) {
         });
     }
 
-    const { title, description, imageUrl, price } = req.body;
+    // Get title, description, imageUrl, price, and courseId from the request body
+    const { title, description, imageUrl, price, courseId } = req.body;
 
-    const course = await courseModel.updateOne(
-        {
+    // Find the course with the given courseId and creatorId
+    const course = await courseModel.find({
+        _id: courseId,
+        creatorId: adminId,
+    });
+
+    // If the course is not found, send an error message to the client
+    if (!course) {
+        return res.status(404).json({
+            message: "Course not found!",
+        });
+    }
+
+    // Update the course with the given courseId and creatorId
+    const updatedCourse = await courseModel.updateOne({
             _id: courseId,
             creatorId: adminId,
-        },
-        {
+        }, {
             title,
             description,
             imageUrl,
@@ -199,21 +222,25 @@ adminRouter.put("/course", adminMiddleware, async function (req, res) {
         }
     );
 
-    res.json({
+    // If the course is not found, send an error message to the client
+    res.status(200).json({
         message: "Course updated!",
-        courseId: course._id,
+        courseId: updatedCourse._id,
     });
 });
 
 // Define the admin routes for getting all courses
 adminRouter.get("/course/bulk", adminMiddleware, async function (req, res) {
+    // Get the adminId from the request object
     const adminId = req.adminId;
 
+    // Find all courses with the given creatorId
     const courses = await courseModel.find({
         creatorId: adminId,
     });
 
-    res.json({
+    // Respond with the courses if they are found successfully
+    res.status(200).json({
         courses: courses,
     });
 });
