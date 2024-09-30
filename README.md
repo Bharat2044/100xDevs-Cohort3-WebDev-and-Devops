@@ -308,13 +308,28 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 08 - Offline Videos</summary>
+
+## 📚 [Week 08 - Offline Videos](./Week%2008%20-%20Offline%20Videos/)
+
+### 💻 [**Mongo Deep Dive**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/)
+
+> **`Topics Covered:`** Whay and Why databases?, What is MongoDB?, Some good examples, and Created some backend of a `Course Selling Website`.
+
+-   👨‍💻 [**Lecture Codes**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/Mongo%20Deep%20dive%20Notes.md)
+-   📝 [**Lecture Assignment**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/Mongo%20Deep%20dive%20Assignment.md)
+-   🖥️ [**Assignment Solution**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/Assignment%20Solution/)
+
+</details>
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
 <a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1202345957216231446)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bharat__2044)
