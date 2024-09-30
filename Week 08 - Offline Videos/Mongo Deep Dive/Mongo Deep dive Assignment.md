@@ -17,11 +17,7 @@ For this one, in every authenticated requests, you need to send the jwt in heade
 
 You need to use mongodb to store all the data persistently.
 
-
 ## Routes
-
-## Routes
-
 ### Admin Routes:
 - POST /admin/signup
   - Description: Creates a new admin account.
@@ -63,10 +59,10 @@ You need to use mongodb to store all the data persistently.
   - Output: { purchasedCourses: [ { id: 1, title: 'course title', description: 'course description', price: 100, imageLink: 'https://linktoimage.com'}, ... ] }
 
 
-## Assignment #1 - Add 2 more routes for admin update and delete
+## Assignment #1 - Add 2 more routes update and delete for admin
 - PUT /admin/courses
   - Description: Update a coourse by courseId
-  - Input: Headers: { 'Authorization': 'Bearer <your-token>' }, Body: { title: 'course title', description: 'course description', price: 100, imageLink: 'https://linktoimage.com' }
+  - Input: Headers: { 'Authorization': 'Bearer <your-token>' }, Body: { courseId: 'course-id', title: 'course title', description: 'course description', price: 100, imageLink: 'https://linktoimage.com' }
   - Output: { message: 'Course updated successfully }
 
 - DELETE /admin/courses
@@ -74,4 +70,4 @@ You need to use mongodb to store all the data persistently.
   - Input: Headers: { 'Authorization': 'Bearer <your-token>' }, Body: { courseId: 'course-id' }
   - Output: { message: 'Course deleted successfully' }
 
-## Assignment #2 - Validate Input using Zod and Handle error using try-catch block.
+## Assignment #2 - Validate Input using `Zod`, Insert hashed-password in database instead of original password while signup using `bcrypt` library and Handle error using try-catch block.
