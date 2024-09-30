@@ -1,0 +1,47 @@
+# **Week 08 - Offline Videos | Mongo Deep Dive**
+
+
+## [Slides/Notes Link](https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Week_4.3.pdf)
+
+
+## Article/Blogs Link:
+- [**What Is A Database? Relational VS Nonrelational Databases**](https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/)
+- [**SQL vs NoSQL: When to Use Which**](https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/)
+- [**What is MongoDB? Features and how it works**](https://www.techtarget.com/searchdatamanagement/definition/MongoDB#:~:text=MongoDB%20is%20an%20open%20source,large%20sets%20of%20distributed%20data.)
+-   [**A Complete Guide to MongoDB Queries with Examples**](https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4)
+- [**Why Use MongoDB: What It Is and What Are the Benefits**](https://www.simplilearn.com/tutorials/mongodb-tutorial/what-is-mongodb)
+- [**How to Get Your MongoDB URL to Connect to Your Node.js Application**](https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/)
+- [**What is Mongoose?**](https://monib-bormon.medium.com/what-is-mongoose-c1bc3031cc08)
+- [**How to Write Cleaner Code Using Mongoose Schemas**](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/)
+- [**JSON and BSON**](https://www.mongodb.com/resources/basics/json-and-bson)
+- [**JSON web token (JWT) authentication in NodeJS applications**](https://mattermost.com/blog/json-web-token-jwt-authentication-in-nodejs-applications/)
+- [**How To Implement JWT Authentication On Node**](https://adevait.com/nodejs/how-to-implement-jwt-authentication-on-node)
+- [**What is Bearer Token and How it Works?**](https://apidog.com/articles/what-is-bearer-token/)
+
+## Official Website
+-   [**Node.js**](https://nodejs.org/en)
+-   [**Express**](https://expressjs.com/)
+-   [**Express - NPM**](https://www.npmjs.com/package/express)
+-   [**Express Middleware**](https://expressjs.com/en/guide/using-middleware.html)
+-   [**Express Routing**](https://expressjs.com/en/guide/routing.html)
+-   [**Express Error Handling**](https://expressjs.com/en/guide/error-handling.html)
+-   [**NPM**](https://www.npmjs.com/)
+-   [**JWT**](https://jwt.io/)
+-   [**JWT - NPM**](https://www.npmjs.com/package/jsonwebtoken)
+-   [**MongoDB**](https://www.mongodb.com/)
+-   [**MongoDB - NPM**](https://www.npmjs.com/package/mongodb)
+-   [**MongoDB Cloud | MongoDB**](https://www.mongodb.com/products/platform/cloud)
+-   [**Mongoose**](https://mongoosejs.com/docs/)
+-   [**Mongoose - NPM**](https://www.npmjs.com/package/mongoose?azure-portal=true)
+-   [**Bcrypt**](https://www.npmjs.com/package/bcrypt)
+-   [**Bcrypt - NPM**](https://www.npmjs.com/package/bcrypt)
+-   [**Zod**](https://zod.dev/)
+-   [**Zod - NPM**](https://www.npmjs.com/package/zod)
+-   [**Dotenv**](https://www.dotenv.org/docs/)
+-   [**Dotenv - NPM**](https://www.npmjs.com/package/dotenv)
+-   [**EJS**](https://ejs.co/)
+-   [**EJS - NPM**](https://www.npmjs.com/package/ejs)
+-   [**React**](https://react.dev/)
+-   [**Redux**](https://redux.js.org/)
+-   [**Redux Toolkit**](https://redux-toolkit.js.org/)
+-   [**Tailwind CSS**](https://tailwindcss.com/)
