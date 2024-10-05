@@ -41,19 +41,7 @@
             state.count++;
 
             // Re-render the button component with the updated counter value 
-            buttonComponentReRender()
-        }
-
-        // Function to re-render the button component with the updated counter value
-        function buttonComponentReRender() {
-            // Remove the existing button component
-            document.getElementById("buttonParent").innerHTML = "";
-
-            // Create a new button component with the updated counter value
-            const component = buttonComponent(state.count);
-
-            // Append the new button component to the parent element
-            document.getElementById("buttonParent").appendChild(component);
+            buttonComponentReRender();
         }
 
         // Function to create a button component with the counter value 
@@ -69,6 +57,18 @@
 
             // Return the button element
             return button;
+        }
+
+        // Function to re-render the button component with the updated counter value
+        function buttonComponentReRender() {
+            // Remove the existing button component
+            document.getElementById("buttonParent").innerHTML = "";
+
+            // Create a new button component with the updated counter value
+            const component = buttonComponent(state.count);
+
+            // Append the new button component to the parent element
+            document.getElementById("buttonParent").appendChild(component);
         }
 
         // Initial render of the button component / calling the buttonComponentReRender function
