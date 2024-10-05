@@ -16,6 +16,9 @@ function App() {
 
     // Function to add a new todo item
     function addTodo() {
+        /*
+        // let newArray = [...todos];
+
         // Create a new array to hold updated todos (alternative way to spread operator)
         let newArray = [];
 
@@ -33,6 +36,17 @@ function App() {
 
         // Update the 'todos' state with the new array of todos
         setTodos(newArray);
+        */
+
+        // Update the 'todos' state using the spread operator to add a new todo item
+        setTodos([
+            ...todos, // Spread the existing todos array
+            {
+                title: document.getElementById("title").value, // Get the title input from the DOM
+                description: document.getElementById("description").value, // Get the description input from the DOM
+                done: false, // Mark the new task as not done
+            },
+        ]);
     }
 
     // Return the JSX to render the component
@@ -50,6 +64,9 @@ function App() {
             <button onClick={addTodo}>Add Todo</button> 
 
             <br />
+
+            {/* Display the todos array as a JSON string */}
+            {/* {JSON.stringify(todos)}  */}
 
             {/* Map through the todos array and render each todo item using the Todo component */}
             {
