@@ -30,21 +30,25 @@
     <div id="buttonParent"></div>
 
     <script>
-        // State object to store the count value
+        // State object to store the count value and color
         let state = {
-            count: 0 // Initial count value is 0
+            count: 0, // Initial count value is 0
+            color: "white" // Initial color value is white
         }
 
-        // Function to increment the counter each time the button is clicked
+        // Function to increment the counter and update the color value each time the button is clicked
         function onButtonPress() {
             // Increment the counter value by 1
             state.count++;
+
+            // Update the color value based on a random condition
+            state.color = Math.random() > 0.5 ? "red" : "white";
 
             // Re-render the button component with the updated counter value 
             buttonComponentReRender();
         }
 
-        // Function to create a button component with the counter value 
+        // Function to create a button component with the counter value and color
         function buttonComponent(count) {
             // Create a new button element 
             const button = document.createElement("button");
@@ -55,11 +59,14 @@
             // Set the onclick attribute to call the onButtonPress function 
             button.setAttribute("onclick", `onButtonPress()`);
 
+            // Set the color of the button based on the state value
+            button.style.color = state.color;
+
             // Return the button element
             return button;
         }
 
-        // Function to re-render the button component with the updated counter value
+        // Function to re-render the button component with the updated counter value and color
         function buttonComponentReRender() {
             // Remove the existing button component
             document.getElementById("buttonParent").innerHTML = "";
