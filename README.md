@@ -315,7 +315,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ### 💻 [**Mongo Deep Dive**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/)
 
-> **`Topics Covered:`** Whay and Why databases?, What is MongoDB?, Some good examples, and Created some backend of a `Course Selling Website`.
+> **`Topics Covered:`** What and Why databases?, What is MongoDB?, Some good examples, and Created some backend of a `Course Selling Website`.
 
 -   👨‍💻 [**Lecture Codes**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](/Week%2008%20-%20Offline%20Videos/Mongo%20Deep%20Dive/Mongo%20Deep%20dive%20Notes.md)
@@ -324,9 +324,25 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 09</summary>
+
+## 📚 [Week 09](./Week%2009/)
+
+### 💻 [**9.1 - Intro to React**](./Week%2009/9.1%20-%20Intro%20to%20React/)
+
+> **`Topics Covered:`** What and Why `React`, Components, State, Re-rendering, What is JSX?, useState, Create `Counter-App` using 3 diffenrnt way 1. DOM, 2. state and component and 3. React, Create Simple Todo App using React.
+
+-   👨‍💻 [**Lecture Codes**](./Week%2009/9.1%20-%20Intro%20to%20React/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.1%20-%20Intro%20to%20React/9.1%20-%20Intro%20to%20React%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009/9.1%20-%20Intro%20to%20React/9.1%20-%20Intro%20to%20React%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009/9.1%20-%20Intro%20to%20React/Assignment%20Solution/)
+
+</details>
+
 <br />
 
-# 🔗 **Let's Connect** 🤝
+# 🔗 **Let's Connect** 🤝# **
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
