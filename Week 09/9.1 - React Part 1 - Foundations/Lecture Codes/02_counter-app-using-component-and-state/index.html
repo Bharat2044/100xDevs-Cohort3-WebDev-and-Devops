@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Counter App</title>
+
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        button {
+            display: block;
+            margin: 0 auto;
+            padding: 10px 20px;
+            font-size: 1.5rem;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Counter App</h1>
+    <div id="buttonParent"></div>
+
+    <script>
+        // State object to store the count value and color
+        let state = {
+            count: 0, // Initial count value is 0
+            color: "white" // Initial color value is white
+        }
+
+        // Function to increment the counter and update the color value each time the button is clicked
+        function onButtonPress() {
+            // Increment the counter value by 1
+            state.count++;
+
+            // Update the color value based on a random condition
+            state.color = Math.random() > 0.5 ? "red" : "white";
+
+            // Re-render the button component with the updated counter value 
+            buttonComponentReRender();
+        }
+
+        // Function to create a button component with the counter value and color
+        function buttonComponent(count) {
+            // Create a new button element 
+            const button = document.createElement("button");
+
+            // Set the innerHTML of the button to display the counter value 
+            button.innerHTML = `Counter ${count}`;
+
+            // Set the onclick attribute to call the onButtonPress function 
+            button.setAttribute("onclick", `onButtonPress()`);
+
+            // Set the color of the button based on the state value
+            button.style.color = state.color;
+
+            // Return the button element
+            return button;
+        }
+
+        // Function to re-render the button component with the updated counter value and color
+        function buttonComponentReRender() {
+            // Remove the existing button component
+            document.getElementById("buttonParent").innerHTML = "";
+
+            // Create a new button component with the updated counter value
+            const component = buttonComponent(state.count);
+
+            // Append the new button component to the parent element
+            document.getElementById("buttonParent").appendChild(component);
+        }
+
+        // Initial render of the button component / calling the buttonComponentReRender function
+        buttonComponentReRender();
+    </script>
+</body>
+
+</html>
