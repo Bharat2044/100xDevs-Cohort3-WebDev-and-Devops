@@ -329,23 +329,23 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 09](./Week%2009/)
 
-### 💻 [**9.1 - React Part 1 - Foundations**](./Week%2009/9.1%20-%20Intro%20to%20React/)
+### 💻 [**9.1 - React Part 1 - Foundations**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/)
 
 > **`Topics Covered:`** What and Why `React`, Components, State, Re-rendering, What is JSX?, useState, Create `Counter-App` using 3 diffenrnt way 1. DOM, 2. state and component and 3. React, Create Simple Todo App using React.
 
--   👨‍💻 [**Lecture Codes**](./Week%2009/9.1%20-%20Intro%20to%20React/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.1%20-%20Intro%20to%20React/9.1%20-%20Intro%20to%20React%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2009/9.1%20-%20Intro%20to%20React/9.1%20-%20Intro%20to%20React%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2009/9.1%20-%20Intro%20to%20React/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/9.1%20-%20React%20Part%201%20-%20Foundations%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/9.1%20-%20React%20Part%201%20-%20Foundations%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/Assignment%20Solution/)
 
-### 💻 [**9.2 - useState, useEfect**](./Week%2009/9.2%20-%20React%20Part%202/)
+### 💻 [**9.2 - useState, useEfect**](./Week%2009/9.2%20-%20useState,%20useEfect/)
 
 > **`Topics Covered:`** useState and useEffect Hooks, Conditional Rendering, Props, useState Cleanup, Dependency Array, Mounting, Unmounting, Rendering, Create Countdown App...
 
--   👨‍💻 [**Lecture Codes**](./Week%2009/9.2%20-%20React%20Part%202/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.2%20-%20React%20Part%202/9.2%20-%20React%20Part%202%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2009/9.2%20-%20React%20Part%202/9.2%20-%20React%20Part%202%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2009/9.2%20-%20React%20Part%202/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2009/9.2%20-%20useState,%20useEfect/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.2%20-%20useState,%20useEfect/9.2%20-%20useState,%20useEfect%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009/9.2%20-%20useState,%20useEfect/9.2%20-%20useState,%20useEfect%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009/9.2%20-%20useState,%20useEfect/Assignment%20Solution/)
 
 </details>
 
