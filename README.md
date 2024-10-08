@@ -325,33 +325,33 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 09</summary>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 09 - React</summary>
 
-## 📚 [Week 09](./Week%2009/)
+## 📚 [Week 09 - React](./Week%2009%20-%20React/)
 
-### 💻 [**9.1 - React Part 1 - Foundations**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/)
+### 💻 [**9.1 - React Basics**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/)
 
 > **`Topics Covered:`** What and Why `React`, Components, State, Re-rendering, What is JSX?, useState, Create `Counter-App` using 3 diffenrnt way 1. DOM, 2. state and component and 3. React, Create Simple Todo App using React.
 
--   👨‍💻 [**Lecture Codes**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/9.1%20-%20React%20Part%201%20-%20Foundations%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/9.1%20-%20React%20Part%201%20-%20Foundations%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2009/9.1%20-%20React%20Part%201%20-%20Foundations/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/9.1%20-%20React%20Basics%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/9.1%20-%20React%20Basics%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/Assignment%20Solution/)
 
-### 💻 [**9.2 - useState, useEfect**](./Week%2009/9.2%20-%20useState,%20useEfect/)
+### 💻 [**9.2 - React useState**](./Week%2009%20-%20React/9.2%20-%20React%20useState/)
 
 > **`Topics Covered:`** useState and useEffect Hooks, Conditional Rendering, Props, useState Cleanup, Dependency Array, Mounting, Unmounting, Rendering, Create Countdown App...
 
--   👨‍💻 [**Lecture Codes**](./Week%2009/9.2%20-%20useState,%20useEfect/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009/9.2%20-%20useState,%20useEfect/9.2%20-%20useState,%20useEfect%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2009/9.2%20-%20useState,%20useEfect/9.2%20-%20useState,%20useEfect%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2009/9.2%20-%20useState,%20useEfect/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2009%20-%20React/9.2%20-%20React%20useState/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20React/9.2%20-%20React%20useState/9.2%20-%20React%20useState%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009%20-%20React/9.2%20-%20React%20useState/9.2%20-%20React%20useState%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.2%20-%20React%20useState/Assignment%20Solution/)
 
 </details>
 
 <br />
 
-# 🔗 **Let's Connect** 🤝# **
+# 🔗 **Let's Connect** 🤝
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
