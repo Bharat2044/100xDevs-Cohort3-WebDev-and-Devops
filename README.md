@@ -329,7 +329,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 09](./Week%2009/)
 
-### 💻 [**9.1 - Intro to React**](./Week%2009/9.1%20-%20Intro%20to%20React/)
+### 💻 [**9.1 - React Part 1 - Foundations**](./Week%2009/9.1%20-%20Intro%20to%20React/)
 
 > **`Topics Covered:`** What and Why `React`, Components, State, Re-rendering, What is JSX?, useState, Create `Counter-App` using 3 diffenrnt way 1. DOM, 2. state and component and 3. React, Create Simple Todo App using React.
 
@@ -338,7 +338,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📝 [**Lecture Assignment**](./Week%2009/9.1%20-%20Intro%20to%20React/9.1%20-%20Intro%20to%20React%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2009/9.1%20-%20Intro%20to%20React/Assignment%20Solution/)
 
-### 💻 [**9.2 - React Part 2**](./Week%2009/9.2%20-%20React%20Part%202/)
+### 💻 [**9.2 - useState, useEfect**](./Week%2009/9.2%20-%20React%20Part%202/)
 
 > **`Topics Covered:`** useState and useEffect Hooks, Conditional Rendering, Props, useState Cleanup, Dependency Array, Mounting, Unmounting, Rendering, Create Countdown App...
 
