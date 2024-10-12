@@ -349,6 +349,23 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 09 - Offline Videos
+
+</summary>
+
+## 📚 [Week 09 - Offline Videos](./Week%2009%20-%20Offline%20Videos/)
+
+> **`Topics Covered:`** Create React project locally, Components, Hooks(useState, useEffect), dependency array, cleanup functions, fetch data from API, re-render, props, children-props, conditional-rendering, lists and keys, inline styling, class-based vs functional component, lifecycle methods, error boundary, react fragment and create some small app.
+
+-   💻 [**React Part 1 - useState, useEffect, props, components, conditional rendering**](./Week%2009%20-%20Offline%20Videos/1.%20React%20Part%201%20-%20useState,%20useEffect,%20props,%20components,%20conditional%20rendering/)
+-   💻 [**2. Lists, children, lifecycle events, error boundaries, fragments**](./Week%2009%20-%20Offline%20Videos/2.%20Lists,%20children,%20lifecycle%20events,%20error%20boundaries,%20fragments/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20Offline%20Videos/Week%2009%20-%20Offline%20Videos%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009%20-%20Offline%20Videos/Week%2009%20-%20Offline%20Videos%20Assignment.md)
+-   👨‍💻 [**Assignment Solution**](./Week%2009%20-%20Offline%20Videos/Assignment%20Solution/)
+
+</details>
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
