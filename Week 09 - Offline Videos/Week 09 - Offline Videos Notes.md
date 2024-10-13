@@ -7,14 +7,24 @@
 ## Articles/Blogs Link:
 -   [**Learn React – A Handbook for Beginners**](https://www.freecodecamp.org/news/react-for-beginners-handbook/#:~:text=React%20is%20a%20very%20popular,operation%20and%20should%20be%20minimized)
 -   [**What Is React: Understanding the Features and How to Deploy for Modern Web Development**](https://www.hostinger.in/tutorials/what-is-react)
--   [**React Fundamentals – JSX, Components, and Props Explained**](https://www.freecodecamp.org/news/react-fundamentals/)
 -   [**React Re-rendering: Exploring What, Why, and How**](https://medium.com/simform-engineering/react-re-rendering-exploring-what-why-and-how-d180d5305892)
--   [**React Hooks Explained Simply**](https://daily.dev/blog/react-hooks-explained-simply#:~:text=Hooks%20are%20special%20functions%20in,needing%20to%20write%20class%20components.)
+-   [**React Fundamentals – JSX, Components, and Props Explained**](https://www.freecodecamp.org/news/react-fundamentals/)
+-   [**How to Use React Components – Props, Default Props, and PropTypes Explained**](https://www.freecodecamp.org/news/how-to-use-react-components/)
 -   [**React Props Explained with Examples**](https://refine.dev/blog/react-props/#passing-function-to-react-component)
+-   [**React.js: Using Children Props**](https://medium.com/@martin.crabtree/react-js-using-children-props-c83d5b259756)
 -   [**React Conditional Rendering – Explained with Examples**](https://www.freecodecamp.org/news/react-conditional-rendering/)
+-   [**React Hooks Explained Simply**](https://daily.dev/blog/react-hooks-explained-simply#:~:text=Hooks%20are%20special%20functions%20in,needing%20to%20write%20class%20components.)
 -   [**React Hooks – How to Use the useState & useEffect Hooks in Your Project**](https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/)
+-   [**Lists and Keys in ReactJS**](https://medium.com/@shivamjha2436/lists-and-keys-in-reactjs-9a237b98818c)
+-   [**React inline styles**](https://medium.com/@ttennant/react-inline-styles-and-media-queries-using-a-custom-react-hook-e76fa9ec89f6)
+-   [**React.js inline style best practices**](https://stackoverflow.com/questions/26882177/react-js-inline-style-best-practices)
+-   [**Function Components vs Class Components in React – With Examples**](https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/)
 -   [**React Component Lifecycle Methods – Explained with Examples**](https://www.freecodecamp.org/news/react-component-lifecycle-methods/)
 -   [**React lifecycle methods diagram**](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram///)
+-   [**Error Boundaries**](https://legacy.reactjs.org/docs/error-boundaries.html)
+-   [**Error Boundaries in React - Handling Errors Gracefully**](https://refine.dev/blog/react-error-boundaries/#introduction)
+-   [**How to use React Fragments?**](https://refine.dev/blog/how-react-fragments-is-works/#3-keyed-fragments)
+-   [**Fragment**](https://react.dev/reference/react/Fragment)
 
 
 ## Official Website Link:
