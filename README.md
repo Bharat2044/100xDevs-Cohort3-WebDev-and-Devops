@@ -366,6 +366,31 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 10</summary>
+
+## 📚 [Week 10](./Week%2010/)
+
+### 💻 [**10.1 - Routing in React**](./Week%2010/10.1%20-%20Routing%20in%20React/)
+
+> **`Topics Covered:`** Single Page Application, Routing(react-router-dom), Layout, useRef Hook, why we need useRef hook, and Create a Clock with start and stop functionality using useRef.
+
+-   👨‍💻 [**Lecture Codes**](./Week%2010/10.1%20-%20Routing%20in%20React/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.1%20-%20Routing%20in%20React/10.1%20-%20Routing%20in%20React%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2010/10.1%20-%20Routing%20in%20React/10.1%20-%20Routing%20in%20React%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2010/10.1%20-%20Routing%20in%20React/Assignment%20Solution/)
+
+### 💻 [**10.2 - Context API, Prop drilling and custom hooks**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/)
+
+> **`Topics Covered:`** Custom Hooks, Rolling-up the State, unoptimal re-renders, Prop-Drilling, Context API
+
+-   👨‍💻 [**Lecture Codes**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/Assignment%20Solution/)
+
+</details>
+
 <br />
 
 # 🔗 **Let's Connect** 🤝
