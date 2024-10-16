@@ -1,6 +1,6 @@
 # **`100xDevs Cohort 3.0 Web Dev + Devops🚀`**
 
-> ### _[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains lecture codes, lecture assignments, assignment solutions, links to notes/slides link, relevant articles/blogs link for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._
+> **_[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains `live class/lecture codes, lecture assignments, assignment solutions, links to notes/slides link, some good relevant articles/blogs link` for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._**
 
 <!-- ## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3) -->
 
@@ -13,8 +13,6 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ```
 
 ## 👨‍💻 **Contents** 👀
-
-**This repository contains a `Collection of Codes, Lecture Assignments, Assignments Solutions, Notes\Slides Link and Some good videos & Articles/Blogs link` and also all topics name which covered in class. If you are 100xDevs Cohort3 Student this will defenitely help you.**
 
 **📌 `Note:` Click on the arrow sign to expand to see each topics in details with link.**
 
@@ -157,6 +155,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/4.2%20-%20HTTP%20Servers%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/4.2%20-%20HTTP%20Servers%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Assignment%20Solution/)
+    - [Todo App Project🚀](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Assignment%20Solution/Assignment%201%20Solution%20-%20todo%20app/)
+    - [File Based Todo App Project🚀](./Week%2004%20-%20Node.js%20and%20HTTP/4.2%20-%20HTTP%20Servers/Assignment%20Solution/Assignment%202%20Solution%20-%20file%20based%20todo%20app/)
 
 </details>
 
@@ -240,6 +240,8 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/Assignment%20Solution/)
+    - [Auth App Project🚀](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/Assignment%20Solution/Assignment%201%20Solution%20-%20Auth%20App/)
+    - [Todo App Backend Project🚀](./Week%2006/6.2%20-%20Auth%20and%20Connecting%20FE%20to%20BE/Assignment%20Solution/Assignment%202%20Solution%20-%20Todo%20App/)
 
 </details>
 
@@ -280,6 +282,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/7.2%20-%20Passwords,%20Zod%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/Assignment%20Solution/)
+    - [Todo App Backend Project🚀](./Week%2007%20-%20MongoDB/7.2%20-%20Passwords,%20Zod/Assignment%20Solution/Assignment%202%20Solution%20-%20Todo%20App/)
 
 </details>
 
@@ -296,6 +299,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/Assignment%20Solution/)
+    - [Course Selling App Backend Project🚀](./Week%2008%20-%20Course%20Selling%20App/8.1%20-%20Backend%20of%20Course%20Selling%20App/Assignment%20Solution/Assignment%201%20Solution%20-%20Course-Selling-App/)
 
 ### 💻 [**8.2 - Backend of Course Selling App - Part 2**](./Week%2008%20-%20Course%20Selling%20App/8.2%20-%20Backend%20of%20Course%20Selling%20App%20-%20Part%202/)
 
@@ -337,6 +341,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/9.1%20-%20React%20Basics%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/9.1%20-%20React%20Basics%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.1%20-%20React%20Basics/Assignment%20Solution/)
+    - [Todo App Project🚀](./Week%2009%20-%20React/9.1%20-%20React%20Basics/Assignment%20Solution/Assignment%202%20Solution%20-%20Hard%20Todo%20App/)
 
 ### 💻 [**9.2 - React useState**](./Week%2009%20-%20React/9.2%20-%20React%20useState/)
 
@@ -346,6 +351,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20React/9.2%20-%20React%20useState/9.2%20-%20React%20useState%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2009%20-%20React/9.2%20-%20React%20useState/9.2%20-%20React%20useState%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.2%20-%20React%20useState/Assignment%20Solution/)
+    - [Counter App Project🚀](./Week%2009%20-%20React/9.2%20-%20React%20useState/Assignment%20Solution/Assignment%201%20Solution%20-%20Counter%20App/)
 
 </details>
 
@@ -379,6 +385,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.1%20-%20Routing%20in%20React/10.1%20-%20Routing%20in%20React%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2010/10.1%20-%20Routing%20in%20React/10.1%20-%20Routing%20in%20React%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2010/10.1%20-%20Routing%20in%20React/Assignment%20Solution/)
+    - [Allen UI Clone Project🚀](./Week%2010/10.1%20-%20Routing%20in%20React/Assignment%20Solution/allen-clone/)
 
 ### 💻 [**10.2 - Context API, Prop drilling and custom hooks**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/)
 
@@ -388,6 +395,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/Assignment%20Solution/)
+    - [Multi-level Dropdown Menu Project🚀](./Week%2010/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks/Assignment%20Solution/multilevel-dropdown-menu/)
 
 </details>
 
