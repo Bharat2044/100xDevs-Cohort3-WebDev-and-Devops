@@ -36,6 +36,16 @@ createCourseRoutes();
 
 // Create a main function to connect to the database and start the server
 async function main() {
+    // Error handling using try-catch if any error occurs while connecting to database
+    try {
+        // Use the connect method to connect to the database and log a success message if the connection is successful
+        const connection = await mongoose.connect("mongodb+srv://100xdevs:WvaTca0509mb90YX@cluster0.ossjd.mongodb.net/coursera-app");
+        console.log("Connected to the database");
+    } catch(error) {
+         console.log("Failed to connect to the database", error)
+    }
+
+    /*
     // Use the connect method to connect to the database and log a success message if the connection is successful
     const connection = await mongoose.connect("mongodb+srv://100xdevs:WvaTca0509mb90YX@cluster0.ossjd.mongodb.net/coursera-app");
 
@@ -45,6 +55,7 @@ async function main() {
     } else { // If the connection is not successful
         console.log("Failed to connect to the database");
     }
+    */
     
     // Start the server on port 3000
     app.listen(3000, () => {
