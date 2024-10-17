@@ -29,7 +29,7 @@ function Parent() {
             <Decrease count={count} setCount={setCount} />
             
             {/* Render the Value component with the count state as a prop */}
-            <Value count={count} setCount={setCount} />
+            <Value count={count} />
         </div>
     );
 }
