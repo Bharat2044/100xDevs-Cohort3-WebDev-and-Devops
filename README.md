@@ -353,22 +353,23 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.2%20-%20React%20useState/Assignment%20Solution/)
     - [Counter App Project🚀](./Week%2009%20-%20React/9.2%20-%20React%20useState/Assignment%20Solution/Assignment%201%20Solution%20-%20Counter%20App/)
 
-</details>
+### 💻 [**9.3 - React From Basic Part 1 (Recorded)**](./Week%2009%20-%20React/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)/)
 
-<details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 09 - Offline Videos
+> **`Topics Covered:`** Create React project locally, Components, Hooks(useState, useEffect), dependency array, cleanup functions, fetch data from API, re-render, props, conditional-rendering...
 
-</summary>
+-   👨‍💻 [**Lecture Codes**](./Week%2009%20-%20React/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20React/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009%20-%20React/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.3%20-%20React%20From%20Basic%20Part%201%20(Recorded)/Assignment%20Solution/)
 
-## 📚 [Week 09 - Offline Videos](./Week%2009%20-%20Offline%20Videos/)
+### 💻 [**9.4 - React From Basic Part 2 (Recorded)**](./Week%2009%20-%20React/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)/)
 
-> **`Topics Covered:`** Create React project locally, Components, Hooks(useState, useEffect), dependency array, cleanup functions, fetch data from API, re-render, props, children-props, conditional-rendering, lists and keys, inline styling, class-based vs functional component, lifecycle methods, error boundary, react fragment and create some small app.
+> **`Topics Covered:`** children-props, lists and keys, inline styling, class-based vs functional component, lifecycle methods, error boundary, react fragment and create some small app...
 
--   💻 [**React Part 1 - useState, useEffect, props, components, conditional rendering**](./Week%2009%20-%20Offline%20Videos/1.%20React%20Part%201%20-%20useState,%20useEffect,%20props,%20components,%20conditional%20rendering/)
--   💻 [**2. Lists, children, lifecycle events, error boundaries, fragments**](./Week%2009%20-%20Offline%20Videos/2.%20Lists,%20children,%20lifecycle%20events,%20error%20boundaries,%20fragments/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20Offline%20Videos/Week%2009%20-%20Offline%20Videos%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2009%20-%20Offline%20Videos/Week%2009%20-%20Offline%20Videos%20Assignment.md)
--   👨‍💻 [**Assignment Solution**](./Week%2009%20-%20Offline%20Videos/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2009%20-%20React/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2009%20-%20React/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2009%20-%20React/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2009%20-%20React/9.4%20-%20React%20From%20Basic%20Part%202%20(Recorded)/Assignment%20Solution/)
 
 </details>
 
@@ -398,6 +399,32 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
     - [Multi-level Dropdown Menu Project🚀](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Assignment%20Solution/multilevel-dropdown-menu/)
 
 </details>
+
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 11</summary>
+
+## 📚 [Week 11](./Week%2011/)
+
+### 💻 [**11.1 - Custom Hooks, useDebounce, useFetch**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/)
+
+> **`Topics Covered:`** Custom Hooks - useCounter, useFetch, useFetch with re-fetching, usePrev, useDebounce...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/Assignment%20Solution/)
+
+### 💻 [**11.2 - Recoil**](./Week%2011/11.2%20-%20Recoil/)
+
+> **`Topics Covered:`** 
+
+-   👨‍💻 [**Lecture Codes**](./Week%2011/11.2%20-%20Recoil/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.2%20-%20Recoil/Assignment%20Solution/)
+
+</details>
+
 
 <br />
 
