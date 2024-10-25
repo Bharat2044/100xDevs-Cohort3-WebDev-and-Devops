@@ -405,14 +405,14 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 11](./Week%2011/)
 
-### 💻 [**11.1 - Custom Hooks, useDebounce, useFetch**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/)
+### 💻 [**11.1 - Custom Hooks**](./Week%2011/11.1%20-%20Custom%20Hooks/)
 
 > **`Topics Covered:`** Custom Hooks - useCounter, useFetch, useFetch with re-fetching, usePrev, useDebounce...
 
--   👨‍💻 [**Lecture Codes**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2011/11.1%20-%20Custom%20Hooks/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.1%20-%20Custom%20Hooks/11.1%20-%20Custom%20Hooks%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2011/11.1%20-%20Custom%20Hooks/11.1%20-%20Custom%20Hooks%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.1%20-%20Custom%20Hooks/Assignment%20Solution/)
 
 ### 💻 [**11.2 - Recoil**](./Week%2011/11.2%20-%20Recoil/)
 
