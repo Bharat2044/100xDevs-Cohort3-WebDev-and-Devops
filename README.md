@@ -378,25 +378,25 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 10](./Week%2010/)
 
-### 💻 [**10.1 - React Part 2 - SPAs, Routing**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/)
+### 💻 [**10.1 - React Part 2 (SPAs, Routing)**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/)
 
 > **`Topics Covered:`** Single Page Application, Routing(react-router-dom), Layout, useRef Hook, why we need useRef hook, and Create a Clock with start and stop functionality using useRef.
 
--   👨‍💻 [**Lecture Codes**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/Assignment%20Solution/)
-    - [Allen UI Clone Project🚀](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/Assignment%20Solution/allen-clone/)
+-   👨‍💻 [**Lecture Codes**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/Assignment%20Solution/)
+    - [Allen UI Clone Project🚀](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/Assignment%20Solution/allen-clone/)
 
-### 💻 [**10.2 - React Part 3 - Context API, Rolling up the State**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/)
+### 💻 [**10.2 - React Part 3 (Context API, Rolling Up The State)**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/)
 
 > **`Topics Covered:`** Rolling-up the State, unoptimal re-renders, Prop-Drilling, Context API, Recoils state management library...
 
--   👨‍💻 [**Lecture Codes**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Assignment%20Solution/)
-    - [Multi-level Dropdown Menu Project🚀](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Assignment%20Solution/multilevel-dropdown-menu/)
+-   👨‍💻 [**Lecture Codes**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/Assignment%20Solution/)
+    - [Multi-level Dropdown Menu Project🚀](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/Assignment%20Solution/multilevel-dropdown-menu/)
 
 </details>
 
@@ -416,7 +416,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ### 💻 [**11.2 - Recoil**](./Week%2011/11.2%20-%20Recoil/)
 
-> **`Topics Covered:`** 
+> **`Topics Covered:`** Context API, Recoil (State Management Library), Atom & Selectors...
 
 -   👨‍💻 [**Lecture Codes**](./Week%2011/11.2%20-%20Recoil/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Notes.md)
