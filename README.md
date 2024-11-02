@@ -425,6 +425,31 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 12 - Ui/Ux by Keshav</summary>
+
+## 📚 [Week 12 - Ui/Ux by Keshav](./Week%2012%20-%20Ui-Ux%20by%20Keshav/)
+
+### 💻 [**12.1 - Ui/Ux Primitives by Keshav - Part 1**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/)
+
+> **`Topics Covered:`** Typography(Fonts, Font Weight, Font Size, Leading, Tracking), Colors(RGB, HSL, ...), What and Why UI/UX, User Interface (UI), User Experience (UX), UI/Frontend Designing...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/Assignment%20Solution/)
+
+### 💻 [**12.2 - Ui/Ux Primitives by Keshav - Part 2**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/)
+
+> **`Topics Covered:`** Reacp Week 12.1, UI/Frontend, Branding, Create, Vimal Pan Masala(Bolo Zubaan Kesari) Website...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/Assignment%20Solution/)
+
+</details>
+
 
 <br />
 
