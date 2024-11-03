@@ -450,6 +450,22 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 13 - Tailwind</summary>
+
+## 📚 [Week 13 - Tailwind](./Week%2013%20-%20Tailwind/)
+
+### 💻 [**13.1 - Tailwind Part 1**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/)
+
+> **`Topics Covered:`** Learn About `Tailwind CSS` with Vite, What and Why Tailwind CSS, Colors, background-colors, fonts, text, border, radius, flexbox, grid and build some projects using react and tailwind...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Assignment%20Solution/)
+
+</details>
+
 
 <br />
 
