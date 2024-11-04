@@ -464,6 +464,15 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Assignment%20Solution/)
 
+### 💻 [**13.2 - Tailwind Part 2**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/)
+
+> **`Topics Covered:`** Learn about animation in tailwind, Create Sidebar and Projects...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/13.2%20-%20Tailwind%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/13.2%20-%20Tailwind%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/Assignment%20Solution/)
+
 </details>
 
 
