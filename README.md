@@ -423,6 +423,15 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   📝 [**Lecture Assignment**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2011/11.2%20-%20Recoil/Assignment%20Solution/)
 
+### 💻 [**11.3 - Recoil Deep Dive (Offline)**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/)
+
+> **`Topics Covered:`** Recoil (State Management Library), Atom & Selectors...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/Assignment%20Solution/)
+
 </details>
 
 <details>
