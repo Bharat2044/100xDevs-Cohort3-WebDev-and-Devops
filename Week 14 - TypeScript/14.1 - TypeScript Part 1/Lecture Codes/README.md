@@ -73,7 +73,7 @@ console.log(result);
 You can create a tsconfig.json file to configure TypeScript compilation options. This file can include compiler options, file inclusion/exclusion settings, and more. <br/>
 Run the following command to generate a basic tsconfig.json file:
 ```bash
-tsc --init
+npx tsc --init
 ```
 This will create a default tsconfig.json file that you can customize.
 
