@@ -1,0 +1,12 @@
+{
+  "name": "lecture-codes",
+  "version": "1.0.0",
+  "description": "**Setting up TypeScript on your local system involves a few steps. TypeScript is a superset of JavaScript that adds static typing to the language, and it compiles down to plain JavaScript.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
