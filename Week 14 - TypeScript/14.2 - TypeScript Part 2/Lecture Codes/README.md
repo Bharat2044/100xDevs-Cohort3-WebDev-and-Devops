@@ -99,3 +99,9 @@ node app.js
 
 
 #### **That's it! You've set up TypeScript on your local system. You can now continue developing in TypeScript and use its features for static typing and other enhancements.**
+
+<br/>
+<br/>
+
+- [**Automatically compile TypeScript files on file save**](https://stackoverflow.com/questions/51128841/automatically-compile-typescript-files-on-file-save)
+- [**How can I get the Typescript compiler to output the compiled js to a different directory?**](https://stackoverflow.com/questions/24454371/how-can-i-get-the-typescript-compiler-to-output-the-compiled-js-to-a-different-d)
