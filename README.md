@@ -484,6 +484,9 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 14 - TypeScript</summary>
+
 ## 📚 [Week 14 - TypeScript](./Week%2014%20-%20TypeScript/)
 
 ### 💻 [**14.1 - TypeScript Part 1**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/)
