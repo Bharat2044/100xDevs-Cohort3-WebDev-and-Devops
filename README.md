@@ -484,6 +484,27 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 </details>
 
+## 📚 [Week 14 - TypeScript](./Week%2014%20-%20TypeScript/)
+
+### 💻 [**14.1 - TypeScript Part 1**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/)
+
+> **`Topics Covered:`** Learn About What and Why `TypeScript`, JavaScript vs TypeScript, TypeScript Compiler, `tsconfig.json` file, Basic Data Types, number, string, boolean, null, undefined, Objects, let, const, Functions, Interface, Types...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/14.1%20-%20TypeScript%20Part%201%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/14.1%20-%20TypeScript%20Part%201%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/Assignment%20Solution/)
+
+### 💻 [**14.2 - TypeScript Part 2**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/)
+
+> **`Topics Covered:`** Learn about difference between Types and Interface, Arrays, Objects, Union, Intersection, Class, Abstract Class, Inheritance, extends vs implements, solve some problems 
+
+-   👨‍💻 [**Lecture Codes**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/14.2%20-%20TypeScript%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/14.2%20-%20TypeScript%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/Assignment%20Solution/)
+
+</details>
 
 <br />
 
