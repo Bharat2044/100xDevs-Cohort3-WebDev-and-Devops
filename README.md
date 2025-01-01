@@ -1,7 +1,5 @@
 # **`100xDevs Cohort 3.0 Web Dev + Devops🚀`**
 
-## 📌 Note: Everything will be updated before this month.
-
 > #### **_[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains `live class/lecture codes, lecture assignments, assignment solutions, links to notes/slides link, some good relevant articles/blogs link` for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._**
 
 <!-- ## [`100xDevs (Harkirat) Cohort 3.0 Web3` GitHub Repository Link](https://github.com/Bharat2044/100xDevs-Cohort3-Web3) -->
@@ -423,11 +421,11 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 -   👨‍💻 [**Lecture Codes**](./Week%2011/11.2%20-%20Recoil/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2011/11.2%20-%20Recoil/Assignment%20Solution/)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.2%20-%20Recoil/Assignment%20Solution/amazon-cart/)
 
 ### 💻 [**11.3 - Recoil Deep Dive (Offline)**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/)
 
-> **`Topics Covered:`** Recoil (State Management Library), Atom & Selectors...
+> **`Topics Covered:`** Recoil (State Management Library), Atoms, selectors, Asynchronous data queries, useRecoilValue, useRecoilState, useSetRecoilState, atomFamily, selectorFamily, useRecoilValueLoadable & useRecoilStateLoadable.
 
 -   👨‍💻 [**Lecture Codes**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)%20Notes.md)
