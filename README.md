@@ -468,23 +468,23 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 13 - Tailwind](./Week%2013%20-%20Tailwind/)
 
-### 💻 [**13.1 - Tailwind Part 1**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/)
+### 💻 [**13.1 - Tailwind, Ref Arrays and Building Components**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components/)
 
 > **`Topics Covered:`** Learn About `Tailwind CSS` with Vite, What and Why Tailwind CSS, Colors, background-colors, fonts, text, border, radius, flexbox, grid and build some projects using react and tailwind...
 
--   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind,%20Ref%20Arrays%20and%20Building%20Components/Assignment%20Solution/)
 
-### 💻 [**13.2 - Tailwind Part 2**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/)
+### 💻 [**13.2 - Tailwind Part 2, Creating Sidebars**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars/)
 
 > **`Topics Covered:`** Learn about animation in tailwind, Create Sidebar and Projects...
 
--   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/13.2%20-%20Tailwind%20Part%202%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/13.2%20-%20Tailwind%20Part%202%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202,%20Creating%20Sidebars/Assignment%20Solution/)
 
 </details>
 
