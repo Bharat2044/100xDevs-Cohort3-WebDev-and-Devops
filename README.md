@@ -12,9 +12,13 @@ Write the following commands on your terminal to clone this repository, so that 
 git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 ```
 
+## 🔗 [**Class/Lecture Slides Link**](./Lecture%20Slides.md)
+
 ## 👨‍💻 **Contents** 👀
 
 **📌 `Note:` Click on the arrow sign to expand to see each topics in details with link.**
+
+## 🔗 [**Class/Lecture Slides Link**](./Lecture%20Slides.md)
 
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 01 - Orientation, HTML/CSS/Basic JS</summary>
