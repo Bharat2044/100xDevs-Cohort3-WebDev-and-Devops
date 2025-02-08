@@ -117,6 +117,10 @@
 - **22.1 - End to End - Project #1 - Excalidraw** - https://github.com/100xdevs-cohort-3/week-22-excelidraw
 - **22.2 - End to End - Project #1 - Part 2** - https://github.com/100xdevs-cohort-3/week-22-excelidraw
 
+### Week 23
+- **23.1 - Excalidraw Part 3** - https://github.com/100xdevs-cohort-3/week-22-excelidraw
+- **23.2 - Excalidraw Part 4** - https://github.com/100xdevs-cohort-3/week-22-excelidraw
+
 
 <br/>
 
