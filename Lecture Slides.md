@@ -124,6 +124,11 @@
 
 <br/>
 
+## For Assignment checkout this 🚀
+- https://github.com/100xdevs-cohort-3/assignments
+
+<br/>
+
 # 🔗 **Let's Connect** 🤝
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
