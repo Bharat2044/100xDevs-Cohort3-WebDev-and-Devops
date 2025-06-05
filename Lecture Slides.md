@@ -134,8 +134,21 @@
 - **24.2 - Reverse Proxies Process Management and Deployment** - https://projects.100xdevs.com/tracks/g0AcDSPl74nk45ZZjRdU/aws-1
 
 ### Week 25
-- **25.1 - Process Management and CI/CD ( by Sargam )** - https://sargam.notion.site/CI-CD-Process-management-18d82f1740e48034ae36e086f395cb61
+- **25.1 - Process Management and CI/CD (by Sargam)** - https://sargam.notion.site/CI-CD-Process-management-18d82f1740e48034ae36e086f395cb61
 - **25.2 - Continuing CI, certificate management and testing** - https://github.com/100xdevs-cohort-3/week-25-ci-next-app
+
+### Week 26
+- **26.1 - Starting Docker** - https://projects.100xdevs.com/tracks/docker-2/docker-2-1
+- **26.2 - Docker Part - 2** - https://projects.100xdevs.com/tracks/docker-2/docker-2-1
+
+### Week 27
+- **27.1 - Docker compose, CI CD with docker** - https://projects.100xdevs.com/tracks/docker-2/docker-2-22
+- **27.2 - Implemetation stream - Deploying a monorepo using docker to VMs** - https://petal-estimate-4e9.notion.site/Deploying-a-monorepo-to-VMs-19c7dfd10735808d9c2ae833fd2f254
+      - https://github.com/100xdevs-cohort-3/week-27-monorepo-deployment-during-class
+
+### Week 28
+- **28.1 - Veritical and horizontal scaling, ASGs** - https://petal-estimate-4e9.notion.site/Autoscaling-groups-1a27dfd1073580adaaccc785189f156f
+- **28.2 - Autoscaling Groups** - petal-estimate-4e9.notion.site/Autoscaling-groups-1a27dfd1073580adaaccc785189f156f
 
 
 <br/>
