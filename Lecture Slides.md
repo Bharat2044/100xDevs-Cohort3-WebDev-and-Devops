@@ -121,6 +121,22 @@
 - **23.1 - Excalidraw Part 3** - https://github.com/100xdevs-cohort-3/week-22-excelidraw
 - **23.2 - Excalidraw Part 4** - https://github.com/100xdevs-cohort-3/week-22-excelidraw
 
+---------------------------------------------------------
+
+## Devops Starts 🚀
+
+### Getting started with devops / Extras ( Warm up videos )
+- **Super 30 Class | Kubernetes and Actionable Docker** - https://www.canva.com/design/DAGUzB8q_Cg/9l_5hnvfnOkbPZLkiOLyBA/edit
+- **Bash and terminal** - No Slides
+
+### Week 24
+- **24.1 - Starting Devops , VMs** - https://petal-estimate-4e9.notion.site/VMs-and-Deploying-a-MERN-app-1867dfd10735809b8c3ad17e07e23ff2
+- **24.2 - Reverse Proxies Process Management and Deployment** - https://projects.100xdevs.com/tracks/g0AcDSPl74nk45ZZjRdU/aws-1
+
+### Week 25
+- **25.1 - Process Management and CI/CD ( by Sargam )** - https://sargam.notion.site/CI-CD-Process-management-18d82f1740e48034ae36e086f395cb61
+- **25.2 - Continuing CI, certificate management and testing** - https://github.com/100xdevs-cohort-3/week-25-ci-next-app
+
 
 <br/>
 
