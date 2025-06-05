@@ -147,8 +147,15 @@
       - https://github.com/100xdevs-cohort-3/week-27-monorepo-deployment-during-class
 
 ### Week 28
-- **28.1 - Veritical and horizontal scaling, ASGs** - https://petal-estimate-4e9.notion.site/Autoscaling-groups-1a27dfd1073580adaaccc785189f156f
+- **28.1 - Vertical and horizontal scaling, ASGs** - https://petal-estimate-4e9.notion.site/Autoscaling-groups-1a27dfd1073580adaaccc785189f156f
 - **28.2 - Autoscaling Groups** - petal-estimate-4e9.notion.site/Autoscaling-groups-1a27dfd1073580adaaccc785189f156f
+
+### Week 29
+- **29.1 - Building a autoscaling orchestrator for Bolt - Project class** - https://github.com/code100x/mobile-magic
+
+### Week 30
+- **30.1 - AWS ERC, ECS and container orchestation** - https://brazen-pantry-a23.notion.site/AWS-ECR-and-ECS-1bac49f9d7d6804b9f9ef6117b90bea6
+- **30.2 - Monitoring and Newrelic** - https://brazen-pantry-a23.notion.site/Monitoring-Logging-and-Newrelic-1bdc49f9d7d68095b844fbe47d7cbb52
 
 
 <br/>
